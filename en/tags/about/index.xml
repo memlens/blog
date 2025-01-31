@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on memlens Blog</title>
+    <link>https://memlens.github.io/en/tags/about/</link>
+    <description>Recent content in About on memlens Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 Jan 2025 06:22:17 +0100</lastBuildDate>
+    <atom:link href="https://memlens.github.io/en/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://memlens.github.io/en/page/about/</link>
+      <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
+      <guid>https://memlens.github.io/en/page/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

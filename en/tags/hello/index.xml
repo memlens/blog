@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on memlens Blog</title>
+    <link>https://memlens.github.io/en/tags/hello/</link>
+    <description>Recent content in Hello on memlens Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 Jan 2025 06:21:52 +0100</lastBuildDate>
+    <atom:link href="https://memlens.github.io/en/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>https://memlens.github.io/en/blog/hello_world/</link>
+      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
+      <guid>https://memlens.github.io/en/blog/hello_world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

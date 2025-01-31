@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://memlens.github.io/en/categories/</loc>
+    <loc>https://memlens.github.io/en/tags/about/</loc>
+    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/page/about/</loc>
+    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/tags/me/</loc>
+    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
   </url><url>
     <loc>https://memlens.github.io/en/</loc>
+    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/page/</loc>
+    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
   </url><url>
     <loc>https://memlens.github.io/en/tags/</loc>
+    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/tags/blog/</loc>
+    <lastmod>2025-01-31T06:21:52+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/blog/</loc>
+    <lastmod>2025-01-31T06:21:52+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/tags/hello/</loc>
+    <lastmod>2025-01-31T06:21:52+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/blog/hello_world/</loc>
+    <lastmod>2025-01-31T06:21:52+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/en/categories/</loc>
   </url>
 </urlset>
