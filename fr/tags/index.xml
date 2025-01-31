@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on memlens Blog</title>
+    <link>https://memlens.github.io/fr/tags/</link>
+    <description>Recent content in Tags on memlens Blog</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 31 Jan 2025 06:22:17 +0100</lastBuildDate>
+    <atom:link href="https://memlens.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://memlens.github.io/fr/tags/about/</link>
+      <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me</title>
+      <link>https://memlens.github.io/fr/tags/me/</link>
+      <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/tags/me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://memlens.github.io/fr/tags/blog/</link>
+      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://memlens.github.io/fr/tags/hello/</link>
+      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/tags/hello/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
