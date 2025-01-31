@@ -49,5 +49,5 @@ hugo.linux
 # Ignore all local history of files
 .history
 .ionide
-
+node_modules/*
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,hugo,linux
