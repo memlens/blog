@@ -104,16 +104,16 @@ DefaultContentLanguageInSubdir = true
   system = "giscus"
 
   # Options for giscus, exclude hyphens
-  repo = ""
-  repoid = ""
-  category = ""
-  categoryid = ""
-  mapping = ""
-  strict = ""
-  reactionsenabled = ""
-  emitmetadata = ""
-  inputposition = ""
-  theme = ""
+  repo = "memlens/memlens.github.io"
+  repoid = "R_kgDONyKtPA"
+  category = "Announcements"
+  categoryid = "DIC_kwDONyKtPM4Cmggs"
+  mapping = "pathname"
+  strict = "0"
+  reactionsenabled = "1"
+  emitmetadata = "0"
+  inputposition = "bottom"
+  theme = "preferred_color_scheme"
 
   # Options for utterances, exclude hyphens
   # repo = ""
