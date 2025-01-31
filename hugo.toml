@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Ayedoun Châ-Fine ADEBI"
       introSubtitle = "23 y/o junior developer who enjoys linux customizing, coding, blogging"
-      introPhoto = "/picture.jpg"
+      introPhoto = "/images/memlens.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
