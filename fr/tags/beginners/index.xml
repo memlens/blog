@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginners on memlens Blog</title>
+    <link>http://localhost:1313/fr/tags/beginners/</link>
+    <description>Recent content in Beginners on memlens Blog</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Chose Linux: My Journey and Tips for Beginners</title>
+      <link>http://localhost:1313/fr/blog/pourquoi_j_ai_choisi_linux/</link>
+      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <guid>http://localhost:1313/fr/blog/pourquoi_j_ai_choisi_linux/</guid>
+      <description>&lt;h1 id=&#34;why-i-chose-linux-my-journey-and-tips-for-beginners&#34;&gt;&lt;strong&gt;Why I Chose Linux: My Journey and Tips for Beginners&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;introduction-&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt; 🌱&lt;/h3&gt;&#xA;&lt;p&gt;My first encounter with Linux happened during my first year studying &lt;strong&gt;computer science&lt;/strong&gt; at the IUT of Parakou. It was the second semester when I noticed a classmate with an incredible desktop setup on his PC. Curious, I approached him, and he told me he was using &lt;strong&gt;Kali Linux&lt;/strong&gt;, an operating system mainly used for hacking.&lt;/p&gt;&#xA;&lt;p&gt;That was the first time I saw something other than &lt;strong&gt;Windows&lt;/strong&gt;. Back in 2023, &lt;strong&gt;Windows 10 was the standard&lt;/strong&gt;, and I used it without giving it much thought. But after this discovery, my curiosity was piqued—I needed to explore this new world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

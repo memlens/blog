@@ -2,6 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://memlens.github.io/fr/blog/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/blog/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/categories/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/categories/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/d%C3%A9butant/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/tags/linux/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/categories/linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/categories/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/categories/linux/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/blog/pourquoi-j-ai-choisi-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/tutoriel/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/void-linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/tags/void-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/tags/void-linux/"
+                />
+  </url><url>
     <loc>https://memlens.github.io/fr/tags/about/</loc>
     <lastmod>2025-01-31T06:22:17+01:00</lastmod>
     <xhtml:link
@@ -41,19 +151,6 @@
                 href="https://memlens.github.io/fr/tags/me/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/fr/</loc>
-    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/"
-                />
-  </url><url>
     <loc>https://memlens.github.io/fr/page/</loc>
     <lastmod>2025-01-31T06:22:17+01:00</lastmod>
     <xhtml:link
@@ -67,19 +164,6 @@
                 href="https://memlens.github.io/fr/page/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/fr/tags/</loc>
-    <lastmod>2025-01-31T06:22:17+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/tags/"
-                />
-  </url><url>
     <loc>https://memlens.github.io/fr/tags/blog/</loc>
     <lastmod>2025-01-31T06:21:52+01:00</lastmod>
     <xhtml:link
@@ -91,19 +175,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://memlens.github.io/fr/tags/blog/"
-                />
-  </url><url>
-    <loc>https://memlens.github.io/fr/blog/</loc>
-    <lastmod>2025-01-31T06:21:52+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/blog/"
                 />
   </url><url>
     <loc>https://memlens.github.io/fr/tags/hello/</loc>
@@ -130,18 +201,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://memlens.github.io/fr/blog/hello_world/"
-                />
-  </url><url>
-    <loc>https://memlens.github.io/fr/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/categories/"
                 />
   </url>
 </urlset>

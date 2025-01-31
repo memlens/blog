@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on memlens Blog</title>
+    <link>https://memlens.github.io/fr/tags/linux/</link>
+    <description>Recent content in Linux on memlens Blog</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <atom:link href="https://memlens.github.io/fr/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pourquoi j’ai choisi Linux : Mon parcours et mes conseils pour débuter</title>
+      <link>https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/</link>
+      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/</guid>
+      <description>&lt;h1 id=&#34;pourquoi-jai-choisi-linux--mon-parcours-et-mes-conseils-pour-débuter&#34;&gt;&lt;strong&gt;Pourquoi j’ai choisi Linux : Mon parcours et mes conseils pour débuter&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;introduction-&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt; 🌱&lt;/h3&gt;&#xA;&lt;p&gt;Mon premier contact avec Linux remonte à ma première année en informatique de gestion à l&amp;rsquo;IUT de Parakou. Nous étions en plein deuxième semestre lorsqu&amp;rsquo;un camarade a attiré mon attention avec un look de bureau impressionnant sur son PC. Curieux, je me suis approché et il m’a expliqué qu’il utilisait &lt;strong&gt;Kali Linux&lt;/strong&gt;, un système d’exploitation principalement dédié au hacking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
