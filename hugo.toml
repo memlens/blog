@@ -1,28 +1,28 @@
 baseURL = 'https://memlens.github.io/'
-languageCode = 'en-us'
+languageCode = 'fr-fr'
 title = 'memlens Blog'
 metaDataFormat = "yaml"
 theme = "blist"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 DefaultContentLanguageInSubdir = true
 [languages]
-  [languages.en]
-    contentDir = "content/en" #English
+  [languages.fr]
+    contentDir = "content/fr" #Français
     weight = 1
-    languageName = "English"
-    [languages.en.params]
-      introTitle = "Hey! I'm Ayedoun Châ-Fine ADEBI"
-      introSubtitle = "23 y/o junior developer who enjoys linux customizing, coding, blogging"
+    languageName = "Français"
+    [languages.fr.params]
+      introTitle = "Hey! Moi c'est Ayedoun Châ-Fine ADEBI"
+      introSubtitle = "Je suis un analyste programmeur pasionné par les systèmes linux et le développement d'applications web"
       introPhoto = "/images/memlens.jpg"
       logo = "/blist-logo.png"
-    [[languages.en.menu.main]]
+    [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
         weight = 1
 
-    [[languages.en.menu.main]]
-        name = "About"
+    [[languages.fr.menu.main]]
+        name = "A propos"
         url = "page/about/"
         weight = 2
 
@@ -107,58 +107,25 @@ DefaultContentLanguageInSubdir = true
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/achafine"
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://linkedin.com/in/"
   [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
-  [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/"
+    url = "https://github.com/memlens"
   [[params.homepage.social.icons]]
     website = "buymeacoffee"
     url = "https://www.buymeacoffee.com/"
   [[params.homepage.social.icons]]
-    website = "medium"
-    url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
     website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
+    url = "https://tiktok.com/@chafineadebi"
   [[params.homepage.social.icons]]
     website = "youtube"
     url = "https://youtube.com"
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
-  [[params.homepage.social.icons]]
-    website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
+    url = "https://instagram.com/@chafineadebi"
 
 [[menu.main]]
   name = "About"
