@@ -1,15 +1,35 @@
 baseURL = 'https://memlens.github.io/'
-languageCode = 'fr-fr'
+languageCode = 'en-en'
 title = 'memlens Blog'
 metaDataFormat = "yaml"
 theme = "blist"
 
-DefaultContentLanguage = "fr"
+DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "Hey, I'm Ayedoun Châ-Fine ADEBI"
+      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introPhoto = "/images/memlens.jpg"
+      logo = "/blist-logo.png"
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "page/about/"
+        weight = 2
+
+
   [languages.fr]
     contentDir = "content/fr" #Français
-    weight = 1
+    weight = 2
     languageName = "Français"
     [languages.fr.params]
       introTitle = "Hey! Moi c'est Ayedoun Châ-Fine ADEBI"
@@ -107,25 +127,25 @@ DefaultContentLanguageInSubdir = true
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/achafine"
+    url = "https://twitter.com/achafine/"
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://linkedin.com/in/"
+    url = "https://linkedin.com/in/adebi-ayédoun-a92405259/"
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/memlens"
+    url = "https://github.com/memlens/"
   [[params.homepage.social.icons]]
     website = "buymeacoffee"
     url = "https://www.buymeacoffee.com/"
   [[params.homepage.social.icons]]
     website = "tiktok"
-    url = "https://tiktok.com/@chafineadebi"
+    url = "https://tiktok.com/@chafineadebi/"
   [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://youtube.com"
+    url = "https://youtube.com/@memlens/"
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com/@chafineadebi"
+    url = "https://instagram.com/@chafineadebi/"
 
 [[menu.main]]
   name = "About"
