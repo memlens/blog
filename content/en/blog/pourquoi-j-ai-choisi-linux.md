@@ -84,7 +84,7 @@ At first, I **didn’t understand anything**. I installed software randomly, bro
 
 ---
 
-### **Why Choose Linux in 2024?** 📅  
+### **Why Choose Linux in 2025?** 📅  
 
 - 🛠 **Full control over your system**  
 - ⚡ **Performance & efficiency** (no planned obsolescence)  

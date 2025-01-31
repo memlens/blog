@@ -84,7 +84,7 @@ Au début, je ne maîtrisais **rien**. J’installais des logiciels au hasard, j
 
 ---
 
-### **Pourquoi choisir Linux en 2024 ?** 📅  
+### **Pourquoi choisir Linux en 2025 ?** 📅  
 
 - 🛠 **Contrôle total sur ton système**  
 - ⚡ **Performance et légèreté** (adieu l’obsolescence programmée)  
