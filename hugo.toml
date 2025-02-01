@@ -136,7 +136,7 @@ DefaultContentLanguageInSubdir = true
     url = "https://github.com/memlens/"
   [[params.homepage.social.icons]]
     website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
+    url = "https://www.buymeacoffee.com/memlens"
   [[params.homepage.social.icons]]
     website = "tiktok"
     url = "https://tiktok.com/@chafineadebi/"
