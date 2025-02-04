@@ -50,19 +50,5 @@
       <guid>https://memlens.github.io/en/tags/me/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Blog</title>
-      <link>https://memlens.github.io/en/tags/blog/</link>
-      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
-      <guid>https://memlens.github.io/en/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello</title>
-      <link>https://memlens.github.io/en/tags/hello/</link>
-      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
-      <guid>https://memlens.github.io/en/tags/hello/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

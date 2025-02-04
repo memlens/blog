@@ -6,8 +6,15 @@
     <description>Recent content on memlens Blog</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 04:07:11 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choisir sa Distribution Linux et Installer Ubuntu sur VirtualBox</title>
+      <link>https://memlens.github.io/fr/blog/choisir-sa-distro-linux/choisir-sa-distro-linux/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/blog/choisir-sa-distro-linux/choisir-sa-distro-linux/</guid>
+      <description>&lt;h2 id=&#34;pourquoi-linux--&#34;&gt;&lt;strong&gt;Pourquoi Linux ?&lt;/strong&gt; 🐧&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://memlens.github.io/images/choisir-sa-distro-linux/pourquoi-linux.jpg&#34; alt=&#34;macOS vs linux vs Windows&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Quand on entend parler de Linux pour la première fois, on imagine souvent un hacker masqué dans un film hollywoodien&amp;hellip; &lt;strong&gt;Mais en réalité, Linux est bien plus que ça !&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Imaginez Linux comme &lt;strong&gt;une grande famille de systèmes d&amp;rsquo;exploitation&lt;/strong&gt; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le noyau Linux&lt;/strong&gt; → Le &amp;ldquo;coeur&amp;rdquo; commun à tous (comme le scénario d&amp;rsquo;une série)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Les distributions&lt;/strong&gt; → Les déclinaisons avec leurs personnalités uniques (comme les personnages)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contrairement à Windows/macOS, Linux vous offre :&lt;br&gt;&#xA;🔓 &lt;strong&gt;Liberté totale&lt;/strong&gt; : Personnalisez &lt;em&gt;tout&lt;/em&gt; (interface, sécurité, performances)&lt;br&gt;&#xA;🚀 &lt;strong&gt;Légèreté&lt;/strong&gt; : Redonnez vie à un vieux PC (ex: avec Lubuntu)&lt;br&gt;&#xA;🛡️ &lt;strong&gt;Sécurité&lt;/strong&gt; : Moins de virus grâce à l&amp;rsquo;open source et aux droits utilisateurs&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pourquoi j’ai choisi Linux : Mon parcours et mes conseils pour débuter</title>
       <link>https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/</link>
@@ -21,13 +28,6 @@
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
       <guid>https://memlens.github.io/fr/page/about/</guid>
       <description>&lt;h1 id=&#34;bienvenue-sur-mon-blog--&#34;&gt;Bienvenue sur mon blog ! 🚀&lt;/h1&gt;&#xA;&lt;p&gt;(~) $: whoami _&lt;/p&gt;&#xA;&lt;p&gt;Passionné par la tech, les systèmes Linux et le développement, j’ai créé cet espace pour partager mes connaissances et expériences autour de &lt;strong&gt;Linux&lt;/strong&gt;, des &lt;strong&gt;configurations avancées&lt;/strong&gt;, de la &lt;strong&gt;Programmation&lt;/strong&gt;, et bien plus encore.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ce-que-tu-trouveras-ici-&#34;&gt;Ce que tu trouveras ici 🛠️&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Des &lt;strong&gt;tutoriels détaillés&lt;/strong&gt; sur l’installation et la personnalisation de distributions Linux&lt;/li&gt;&#xA;&lt;li&gt;Des &lt;strong&gt;guides de configuration&lt;/strong&gt; pour optimiser ton environnement de travail&lt;/li&gt;&#xA;&lt;li&gt;Des articles sur des outils essentiels pour les développeurs et les sysadmins&lt;/li&gt;&#xA;&lt;li&gt;Des explorations autour du &lt;strong&gt;web development&lt;/strong&gt; et des bonnes pratiques DevOps&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;pourquoi-ce-blog--&#34;&gt;Pourquoi ce blog ? 💡&lt;/h2&gt;&#xA;&lt;p&gt;Linux offre une liberté incroyable, mais tirer parti de tout son potentiel demande parfois du temps et de l’expérimentation. Mon objectif est de rendre ces découvertes accessibles et de te fournir des ressources utiles pour gagner en productivité et en efficacité sur ton système.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello world</title>
-      <link>https://memlens.github.io/fr/blog/hello_world/</link>
-      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/blog/hello_world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>https://memlens.github.io/en/blog/pourquoi-j-ai-choisi-linux/</link>
       <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
       <guid>https://memlens.github.io/en/blog/pourquoi-j-ai-choisi-linux/</guid>
-      <description>&lt;h1 id=&#34;why-i-chose-linux-my-journey-and-tips-for-beginners&#34;&gt;&lt;strong&gt;Why I Chose Linux: My Journey and Tips for Beginners&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;introduction-&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt; 🌱&lt;/h3&gt;&#xA;&lt;p&gt;My first encounter with Linux happened during my first year studying &lt;strong&gt;computer science&lt;/strong&gt; at the IUT of Parakou. It was the second semester when I noticed a classmate with an incredible desktop setup on his PC. Curious, I approached him, and he told me he was using &lt;strong&gt;Kali Linux&lt;/strong&gt;, an operating system mainly used for hacking.&lt;/p&gt;&#xA;&lt;p&gt;That was the first time I saw something other than &lt;strong&gt;Windows&lt;/strong&gt;. Back in 2023, &lt;strong&gt;Windows 10 was the standard&lt;/strong&gt;, and I used it without giving it much thought. But after this discovery, my curiosity was piqued—I needed to explore this new world.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;introduction-&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt; 🌱&lt;/h3&gt;&#xA;&lt;p&gt;My first encounter with Linux happened during my first year studying &lt;strong&gt;computer science&lt;/strong&gt; at the IUT of Parakou. It was the second semester when I noticed a classmate with an incredible desktop setup on his PC. Curious, I approached him, and he told me he was using &lt;strong&gt;Kali Linux&lt;/strong&gt;, an operating system mainly used for hacking.&lt;/p&gt;&#xA;&lt;p&gt;That was the first time I saw something other than &lt;strong&gt;Windows&lt;/strong&gt;. Back in 2023, &lt;strong&gt;Windows 10 was the standard&lt;/strong&gt;, and I used it without giving it much thought. But after this discovery, my curiosity was piqued—I needed to explore this new world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -21,13 +21,6 @@
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
       <guid>https://memlens.github.io/en/page/about/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to my blog! 🚀&lt;/h1&gt;&#xA;&lt;p&gt;(~) $: whoami _&lt;/p&gt;&#xA;&lt;p&gt;Passionate about tech, Linux systems, and development, I created this space to share my knowledge and experiences around &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;advanced configurations&lt;/strong&gt;, &lt;strong&gt;Programming&lt;/strong&gt;, and much more.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-youll-find-here-&#34;&gt;What you&amp;rsquo;ll find here 🛠️&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Detailed tutorials&lt;/strong&gt; on installing and customizing Linux distributions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Configuration guides&lt;/strong&gt; to optimize your work environment&lt;/li&gt;&#xA;&lt;li&gt;Articles on essential tools for developers and sysadmins&lt;/li&gt;&#xA;&lt;li&gt;Explorations of &lt;strong&gt;web development&lt;/strong&gt; and DevOps best practices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-this-blog-&#34;&gt;Why this blog? 💡&lt;/h2&gt;&#xA;&lt;p&gt;Linux offers incredible freedom, but making the most of its potential sometimes requires time and experimentation. My goal is to make these discoveries accessible and provide useful resources to help you improve productivity and efficiency on your system.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello world</title>
-      <link>https://memlens.github.io/en/blog/hello_world/</link>
-      <pubDate>Fri, 31 Jan 2025 06:21:52 +0100</pubDate>
-      <guid>https://memlens.github.io/en/blog/hello_world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
