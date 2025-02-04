@@ -1,16 +1,15 @@
 +++
+title = "Why I Chose Linux: My Journey and Tips for Beginners"
 date = '2025-01-31T11:16:36+01:00'
 draft = false
 author = 'Ayedoun Châ-Fine ADEBI'
 description = 'Why i choose linux'
-title = "Why I Chose Linux: My Journey and Tips for Beginners"
-tags = ["Linux", "Void Linux", "Tutorial", "Beginners"]
+tags = ["Linux","Void Linux", "Tutorial", "Beginners"]
 categories = ["Linux"]
 lang = "en"
 +++
 
 
-# **Why I Chose Linux: My Journey and Tips for Beginners**  
 
 ### **Introduction** 🌱  
 
