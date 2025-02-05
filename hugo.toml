@@ -1,6 +1,6 @@
 baseURL = 'https://memlens.github.io/'
 languageCode = 'en-en'
-title = 'memlens Blog'
+title = 'memlens'
 metaDataFormat = "yaml"
 theme = "blist"
 
@@ -123,7 +123,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "I work on everything coding"
 
   [[params.homepage.social.icons]]
     website = "twitter"

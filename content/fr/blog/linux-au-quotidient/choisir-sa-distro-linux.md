@@ -1,6 +1,6 @@
 +++
 date = '2025-02-04T04:07:11+01:00'
-draft = true
+draft = false
 author = 'Ayedoun Châ-Fine ADEBI'
 description = "Choisir sa distribution linux"
 tags = ["Linux", "Void Linux", "Tutoriel", "Débutant"]
@@ -12,11 +12,10 @@ title = 'Choisir sa Distribution Linux et Installer Ubuntu sur VirtualBox'
 
 
 ## **Pourquoi Linux ?** 🐧  
-
-![macOS vs linux vs Windows](/images/choisir-sa-distro-linux/pourquoi-linux.jpg)
+<img src="/images/choisir-sa-distro-linux/pourquoi-linux.jpg" width="200px">
 
 Quand on entend parler de Linux pour la première fois, on imagine souvent un hacker masqué dans un film hollywoodien... **Mais en réalité, Linux est bien plus que ça !**  
-
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/hacker.webp" width="200px" > 
 Imaginez Linux comme **une grande famille de systèmes d'exploitation** :  
 - **Le noyau Linux** → Le "coeur" commun à tous (comme le scénario d'une série)  
 - **Les distributions** → Les déclinaisons avec leurs personnalités uniques (comme les personnages)  
@@ -59,64 +58,70 @@ VirtualBox est un logiciel **gratuit** qui permet de créer des *machines virtue
 ### ✅ **Checklist avant installation**  
 1. **Télécharger Ubuntu LTS** ([lien officiel](https://ubuntu.com/download/desktop))  
    → *Pourquoi LTS ?* = Version Long Term Support (mises à jour garanties sur une longue période).  
-![Cliquez sur download en vert](/images/choisir-sa-distro-linux/down-ubun.png)
+  <img src="/media/posts/2025/02/choisir-sa-distro-linux/down-ubun.png" width="400px">
 2. **Installer VirtualBox** ([Windows](https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-Win.exe) / [macOS](https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-OSX.dmg))  
    → *Procédure d'installation* : Double-cliquez sur le fichier téléchargé et suivez les instructions.  
   - Exemple de Windows:
   
     - Lancez l'installation en double-cliquant sur le fichier 
-      ![Double-cliquez](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-01.png)
+      <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-01.png" width="400px">
     - Sélectionnez le repertoire ou sera installé virtualbox  
-      ![selectionnez le repertoire](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-02.png)
+      <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-02.png" width="400px">
     - Sélectionnez les racourcis que vous souhaitez (un seul racourcis serais idéal, celui dans le menu de démarrage par exemple.)
-      ![Sélectionnez les racourcis](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-03.png)
+      <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-03.png" width="400px">
     - Lancez le processus d'installation
-      ![cliquez sur Installer](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-04.png)
+      <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-04.png" width="400px">    
     - Installer les certificats
-      ![installation des certificats](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-06.png)
+    <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-05.png" width="400px">    
     - Installtion terminée
-      ![terminée](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-07.png)
+    <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-06.png" width="400px">    
 
     - Interface de virtualbox box 
-      ![Interface](/images/choisir-sa-distro-linux/VirtualBox-Windows-Installation-08.png)
-
-
-
-
+    <img src="/media/posts/2025/02/choisir-sa-distro-linux/VirtualBox-Windows-Installation-07.png" width="400px">    
 
 
 3. **Vérifier l'espace disque** :  
    - 20 Go minimum pour Ubuntu  
    - 2 Go de RAM libre recommandés  
 
-📸 *Exemple d'installation de VirtualBox sous Windows : [insérer capture d'écran "Étape 1 - Assistant d'installation VirtualBox"]*
 
 ---
 
 ### **Créer sa Machine Virtuelle en 5 étapes**  
 
 #### **Étape 1 : Lancer VirtualBox et cliquer sur "Nouvelle"**  
-![Interface principale de VirtualBox](lien-image-virtualbox-accueil)  
+
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-00.png" width="400px" >
 
 #### **Étape 2 : Configurer les paramètres de base**  
 - **Nom** : `Ubuntu-Tutoriel` (sans espaces)  
 - **Type** : Linux  
 - **Version** : Ubuntu (64-bit)  
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-011.png" width="400px" >
 
 #### **Étape 3 : Allouer la mémoire RAM**  
 - Minimum : 2048 Mo (2 Go)  
 - Recommandé : 4096 Mo (4 Go)  
-![Paramétrage de la RAM](lien-image-ram-virtualbox)  
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-02.png" width="400px" >
 
 #### **Étape 4 : Créer le disque dur virtuel**  
 - Choisir **VDI** (format natif VirtualBox)  
 - Sélectionner **Dynamiquement alloué** (le disque grossit selon vos besoins)  
 - Taille : 20 Go minimum  
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-03.png" width="400px" >
+
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-04.png" width="400px" >
+
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-05.png" width="400px" >
+
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-061.png" width="400px" >
+
 
 #### **Étape 5 : Monter l'ISO d'Ubuntu**  
 1. Sélectionnez votre VM → **Configuration** → **Stockage**  
 2. Cliquez sur l'icône 📀 sous "Contrôleur IDE" → **Choisir un fichier de disque**  
 3. Sélectionnez votre fichier `ubuntu-XX.XX-lts.iso`  
+<img src="/media/posts/2025/02/choisir-sa-distro-linux/Ubuntu-VirtualBox-Installation-071.png" width="400px" >
 
 ![Montage de l'ISO dans VirtualBox](lien-image-montage-iso)  
 
@@ -168,15 +173,3 @@ Cliquez dans la fenêtre VirtualBox et appuyez sur **Ctrl + Alt + Suppr** pour l
 #### **📁 Comment transférer des fichiers ?**  
 Utilisez le **glisser-déposer** activé via *Périphériques > Glisser-déposer > Bidirectionnel*.  
 
----
-
-Cette version intègre :  
-✅ Des explications plus pédagogiques sur VirtualBox  
-✅ Des appels visuels clairs pour les captures d'écran  
-✅ Un flux logique pour les étapes techniques  
-✅ Des astuces pratiques post-installation  
-
-Pour aller plus loin, vous pourriez :  
-- Ajouter un GIF animé montrant l'installation complète  
-- Créer un tableau comparatif "VirtualBox vs VMware vs Hyper-V"  
-- Intégrer un quiz amusant "Quelle distribution Linux êtes-vous ?"
