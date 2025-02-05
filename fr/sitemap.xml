@@ -15,51 +15,6 @@
                 href="https://memlens.github.io/fr/blog/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/fr/categories/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/categories/"
-                />
-  </url><url>
-    <loc>https://memlens.github.io/fr/blog/choisir-sa-distro-linux/choisir-sa-distro-linux/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
-  </url><url>
-    <loc>https://memlens.github.io/fr/tags/d%C3%A9butant/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
-  </url><url>
-    <loc>https://memlens.github.io/fr/tags/linux/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/tags/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/tags/linux/"
-                />
-  </url><url>
-    <loc>https://memlens.github.io/fr/categories/linux/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/categories/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/categories/linux/"
-                />
-  </url><url>
     <loc>https://memlens.github.io/fr/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
@@ -73,8 +28,63 @@
                 href="https://memlens.github.io/fr/"
                 />
   </url><url>
+    <loc>https://memlens.github.io/fr/categories/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/categories/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/d%C3%A9butant/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+  </url><url>
+    <loc>https://memlens.github.io/fr/tags/linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/tags/linux/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/categories/linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/categories/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/categories/linux/"
+                />
+  </url><url>
+    <loc>https://memlens.github.io/fr/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/"
+                />
+  </url><url>
     <loc>https://memlens.github.io/fr/tags/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,10 +97,10 @@
                 />
   </url><url>
     <loc>https://memlens.github.io/fr/tags/tutoriel/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
   </url><url>
     <loc>https://memlens.github.io/fr/tags/void-linux/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -100,19 +110,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://memlens.github.io/fr/tags/void-linux/"
-                />
-  </url><url>
-    <loc>https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/blog/pourquoi-j-ai-choisi-linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/blog/pourquoi-j-ai-choisi-linux/"
                 />
   </url><url>
     <loc>https://memlens.github.io/fr/tags/about/</loc>
