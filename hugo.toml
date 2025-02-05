@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey, I'm Ayedoun Châ-Fine ADEBI"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introSubtitle = "I am a programmer analyst passionate about Linux systems and web application development."
       introPhoto = "/images/memlens.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
@@ -32,7 +32,7 @@ DefaultContentLanguageInSubdir = true
     weight = 2
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Hey! Moi c'est Ayedoun Châ-Fine ADEBI"
+      introTitle = "Hey, Moi c'est Ayedoun Châ-Fine ADEBI"
       introSubtitle = "Je suis un analyste programmeur pasionné par les systèmes linux et le développement d'applications web"
       introPhoto = "/images/memlens.jpg"
       logo = "/blist-logo.png"

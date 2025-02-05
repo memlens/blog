@@ -11,7 +11,7 @@ lang = "en"
 
 
 
-### **Introduction** 🌱  
+### **1. Introduction** 🌱  
 
 My first encounter with Linux happened during my first year studying **computer science** at the IUT of Parakou. It was the second semester when I noticed a classmate with an incredible desktop setup on his PC. Curious, I approached him, and he told me he was using **Kali Linux**, an operating system mainly used for hacking.  
 
@@ -29,7 +29,7 @@ From that moment on, I fully embraced Linux, learning the command line through t
 
 ---
 
-### **Why Leave Windows/macOS?** ❌  
+### **2. Why Leave Windows/macOS?** ❌  
 
 💥 **Lack of control** – Windows and macOS impose frustrating limitations, from forced updates to proprietary software and data collection. I never felt like I truly **owned** my system.  
 
@@ -41,7 +41,7 @@ From that moment on, I fully embraced Linux, learning the command line through t
 
 ---
 
-### **What Linux Means to Me Today** 🚀  
+### **3. What Linux Means to Me Today** 🚀  
 
 ✅ **Freedom** – No more restrictions; I can do whatever I want with my OS.  
 ✅ **Customization** – My system is **fully tailored** to my needs.  
@@ -50,7 +50,7 @@ From that moment on, I fully embraced Linux, learning the command line through t
 
 ---
 
-### **My Journey to Linux** 🛤️  
+### **4. My Journey to Linux** 🛤️  
 
 #### **My Chaotic Beginnings** 💥  
 My Linux journey was **a series of experiments, failures, and discoveries**. I tested several distributions:  
@@ -66,7 +66,7 @@ At first, I **didn’t understand anything**. I installed software randomly, bro
 
 ---
 
-### **Major Discoveries** 💡  
+### **5. Major Discoveries** 💡  
 
 🔹 **Tiling Window Managers** (i3, bspwm) → A game-changer for productivity.  
 🔹 **Package management** → Pacman (Arch), APT (Debian/Ubuntu), XBPS (Void).  
@@ -74,7 +74,7 @@ At first, I **didn’t understand anything**. I installed software randomly, bro
 
 ---
 
-### **Why I Chose Void Linux** 🏆  
+### **6. Why I Chose Void Linux** 🏆  
 
 💨 **Rolling release** – Always up-to-date, without being tied to fixed versions.  
 ⚡ **Speed & lightweight** – One of the fastest and most responsive distros I’ve used.  
@@ -83,7 +83,7 @@ At first, I **didn’t understand anything**. I installed software randomly, bro
 
 ---
 
-### **Why Choose Linux in 2025?** 📅  
+### **7. Why Choose Linux in 2025?** 📅  
 
 - 🛠 **Full control over your system**  
 - ⚡ **Performance & efficiency** (no planned obsolescence)  
@@ -92,7 +92,7 @@ At first, I **didn’t understand anything**. I installed software randomly, bro
 
 ---
 
-### **My Advice for Getting Started with Linux** 🎯  
+### **8. My Advice for Getting Started with Linux** 🎯  
 
 1️⃣ **Choose the right distro** – Ubuntu/Mint for beginners, Arch/Void for tinkerers.  
 2️⃣ **Learn terminal basics** – Essential commands (`cd`, `ls`, `mv`, `grep`, etc.).  
@@ -102,7 +102,7 @@ At first, I **didn’t understand anything**. I installed software randomly, bro
 
 ---
 
-### **Conclusion** 💡  
+### **9. Conclusion** 💡  
 
 Linux is **not just an OS—it’s a philosophy, a journey, and a continuous learning experience**. I started out of curiosity, but I stayed out of passion.  
 

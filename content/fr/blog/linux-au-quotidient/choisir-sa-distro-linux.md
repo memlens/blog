@@ -1,6 +1,6 @@
 +++
 date = '2025-02-04T04:07:11+01:00'
-draft = false
+draft = true
 author = 'Ayedoun Châ-Fine ADEBI'
 description = "Choisir sa distribution linux"
 tags = ["Linux", "Void Linux", "Tutoriel", "Débutant"]

@@ -10,9 +10,7 @@ lang = "fr"
 +++
 
 
-# **Pourquoi j’ai choisi Linux : Mon parcours et mes conseils pour débuter**  
-
-### **Introduction** 🌱  
+### **1. Introduction** 🌱  
 
 Mon premier contact avec Linux remonte à ma première année en informatique de gestion à l'IUT de Parakou. Nous étions en plein deuxième semestre lorsqu'un camarade a attiré mon attention avec un look de bureau impressionnant sur son PC. Curieux, je me suis approché et il m’a expliqué qu’il utilisait **Kali Linux**, un système d’exploitation principalement dédié au hacking.  
 
@@ -30,7 +28,7 @@ Dès lors, je me suis plongé à fond dans Linux, en apprenant la ligne de comma
 
 ---
 
-### **Pourquoi quitter Windows/macOS ?** ❌  
+### **2. Pourquoi quitter Windows/macOS ?** ❌  
 
 💥 **Dépendance et manque de contrôle** : Windows et macOS imposent des choix et des restrictions frustrantes. Entre les mises à jour forcées, les logiciels propriétaires et la collecte de données, j'avais l'impression de ne pas être maître de mon propre système.  
 
@@ -42,7 +40,7 @@ Dès lors, je me suis plongé à fond dans Linux, en apprenant la ligne de comma
 
 ---
 
-### **Ce que Linux représente pour moi aujourd’hui** 🚀  
+### **3. Ce que Linux représente pour moi aujourd’hui** 🚀  
 
 ✅ **Liberté** : Plus de restrictions absurdes, je fais ce que je veux de mon OS.  
 ✅ **Personnalisation** : Mon système est unique et optimisé pour **mon workflow**.  
@@ -51,9 +49,9 @@ Dès lors, je me suis plongé à fond dans Linux, en apprenant la ligne de comma
 
 ---
 
-### **Mon parcours vers Linux** 🛤️  
+### **4. Mon parcours vers Linux** 🛤️  
 
-#### **Mes débuts chaotiques** 💥  
+#### **. Mes débuts chaotiques** 💥  
 Mon parcours avec Linux a été **une série d’expériences, d’échecs et de découvertes**. J’ai testé plusieurs distributions :  
 
 - **Kali Linux** → Premier contact avec Linux, mais pas adapté à une utilisation quotidienne.  
@@ -67,7 +65,7 @@ Au début, je ne maîtrisais **rien**. J’installais des logiciels au hasard, j
 
 ---
 
-### **Les découvertes marquantes** 💡  
+### **5. Les découvertes marquantes** 💡  
 
 🔹 **Tiling Window Managers** (i3, bspwm) → Une révélation pour la productivité.  
 🔹 **Gestion des paquets** → Pacman (Arch), APT (Debian/Ubuntu), XBPS (Void).  
@@ -75,7 +73,7 @@ Au début, je ne maîtrisais **rien**. J’installais des logiciels au hasard, j
 
 ---
 
-### **Pourquoi j’ai choisi Void Linux** 🏆  
+### **6. Pourquoi j’ai choisi Void Linux** 🏆  
 
 💨 **Rolling release** → Toujours à jour, sans dépendre de versions figées.  
 ⚡ **Rapidité & légèreté** → Une des distros les plus réactives que j’ai testées.  
@@ -84,7 +82,7 @@ Au début, je ne maîtrisais **rien**. J’installais des logiciels au hasard, j
 
 ---
 
-### **Pourquoi choisir Linux en 2025 ?** 📅  
+### **7. Pourquoi choisir Linux en 2025 ?** 📅  
 
 - 🛠 **Contrôle total sur ton système**  
 - ⚡ **Performance et légèreté** (adieu l’obsolescence programmée)  
@@ -93,7 +91,7 @@ Au début, je ne maîtrisais **rien**. J’installais des logiciels au hasard, j
 
 ---
 
-### **Mes conseils pour débuter sur Linux** 🎯  
+### **8. Mes conseils pour débuter sur Linux** 🎯  
 
 1️⃣ **Bien choisir sa distribution** : Ubuntu/Mint pour débuter, Arch/Void pour expérimenter.  
 2️⃣ **Maîtriser le terminal** : `cd`, `ls`, `mv`, `grep`… Les bases indispensables.  
@@ -103,7 +101,7 @@ Au début, je ne maîtrisais **rien**. J’installais des logiciels au hasard, j
 
 ---
 
-### **Conclusion** 💡  
+### **9. Conclusion** 💡  
 
 Linux n'est pas juste un OS, c'est **une philosophie, une aventure et un apprentissage permanent**. J'ai commencé par curiosité, je suis resté par passion.  
 
