@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on memlens Blog</title>
+    <title>Tutorial on memlens</title>
     <link>https://memlens.github.io/en/tags/tutorial/</link>
-    <description>Recent content in Tutorial on memlens Blog</description>
+    <description>Recent content in Tutorial on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 04:07:11 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/en/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing Your Linux Distribution and Installing Ubuntu on VirtualBox</title>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</guid>
+      <description>&lt;h2 id=&#34;why-linux-&#34;&gt;&lt;strong&gt;Why Linux?&lt;/strong&gt; 🐧&lt;/h2&gt;&#xA;&lt;img src=&#34;https://memlens.github.io/images/choisir-sa-distro-linux/pourquoi-linux.jpg&#34; width=&#34;200px&#34;&gt;&#xA;&lt;p&gt;When people first hear about Linux, they often imagine a masked hacker in a Hollywood movie&amp;hellip; &lt;strong&gt;But in reality, Linux is much more than that!&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;https://memlens.github.io/media/posts/2025/02/choisir-sa-distro-linux/hacker.webp&#34; width=&#34;200px&#34;&gt;&lt;br&gt;&#xA;Think of Linux as &lt;strong&gt;a big family of operating systems&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux kernel&lt;/strong&gt; → The common &amp;ldquo;core&amp;rdquo; of all (like the script of a TV series)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distributions&lt;/strong&gt; → Different flavors with unique personalities (like the characters)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Unlike Windows/macOS, Linux offers you:&lt;br&gt;&#xA;🔓 &lt;strong&gt;Total freedom&lt;/strong&gt;: Customize &lt;em&gt;everything&lt;/em&gt; (interface, security, performance)&lt;br&gt;&#xA;🚀 &lt;strong&gt;Lightweight&lt;/strong&gt;: Revive an old PC (e.g., with Lubuntu)&lt;br&gt;&#xA;🛡️ &lt;strong&gt;Security&lt;/strong&gt;: Fewer viruses thanks to open source and user privileges&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why I Chose Linux: My Journey and Tips for Beginners</title>
       <link>https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</link>

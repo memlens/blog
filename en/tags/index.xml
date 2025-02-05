@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on memlens Blog</title>
+    <title>Tags on memlens</title>
     <link>https://memlens.github.io/en/tags/</link>
-    <description>Recent content in Tags on memlens Blog</description>
+    <description>Recent content in Tags on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 04:07:11 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Beginners</title>
-      <link>https://memlens.github.io/en/tags/beginners/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
-      <guid>https://memlens.github.io/en/tags/beginners/</guid>
+      <title>Beginner</title>
+      <link>https://memlens.github.io/en/tags/beginner/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/beginner/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>https://memlens.github.io/en/tags/linux/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/en/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
       <link>https://memlens.github.io/en/tags/tutorial/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/en/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Void Linux</title>
       <link>https://memlens.github.io/en/tags/void-linux/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/en/tags/void-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beginners</title>
+      <link>https://memlens.github.io/en/tags/beginners/</link>
+      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/beginners/</guid>
       <description></description>
     </item>
     <item>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on memlens Blog</title>
+    <title>Categories on memlens</title>
     <link>https://memlens.github.io/en/categories/</link>
-    <description>Recent content in Categories on memlens Blog</description>
+    <description>Recent content in Categories on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 04:07:11 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
       <link>https://memlens.github.io/en/categories/linux/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/en/categories/linux/</guid>
       <description></description>
     </item>

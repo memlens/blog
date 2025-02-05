@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://memlens.github.io/en/tags/beginners/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <loc>https://memlens.github.io/en/tags/beginner/</loc>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
   </url><url>
     <loc>https://memlens.github.io/en/blog/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://memlens.github.io/en/categories/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -31,8 +31,21 @@
                 href="https://memlens.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</loc>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memlens.github.io/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/"
+                />
+  </url><url>
     <loc>https://memlens.github.io/en/tags/linux/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -45,7 +58,7 @@
                 />
   </url><url>
     <loc>https://memlens.github.io/en/categories/linux/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -58,7 +71,7 @@
                 />
   </url><url>
     <loc>https://memlens.github.io/en/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -71,7 +84,7 @@
                 />
   </url><url>
     <loc>https://memlens.github.io/en/tags/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -84,10 +97,10 @@
                 />
   </url><url>
     <loc>https://memlens.github.io/en/tags/tutorial/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
   </url><url>
     <loc>https://memlens.github.io/en/tags/void-linux/</loc>
-    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -98,6 +111,9 @@
                 hreflang="en"
                 href="https://memlens.github.io/en/tags/void-linux/"
                 />
+  </url><url>
+    <loc>https://memlens.github.io/en/tags/beginners/</loc>
+    <lastmod>2025-01-31T11:16:36+01:00</lastmod>
   </url><url>
     <loc>https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</loc>
     <lastmod>2025-01-31T11:16:36+01:00</lastmod>

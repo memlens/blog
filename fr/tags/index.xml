@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on memlens Blog</title>
+    <title>Tags on memlens</title>
     <link>https://memlens.github.io/fr/tags/</link>
-    <description>Recent content in Tags on memlens Blog</description>
+    <description>Recent content in Tags on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:16:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 04:07:11 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Débutant</title>
       <link>https://memlens.github.io/fr/tags/d%C3%A9butant/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/fr/tags/d%C3%A9butant/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>https://memlens.github.io/fr/tags/linux/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/fr/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutoriel</title>
       <link>https://memlens.github.io/fr/tags/tutoriel/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/fr/tags/tutoriel/</guid>
       <description></description>
     </item>
     <item>
       <title>Void Linux</title>
       <link>https://memlens.github.io/fr/tags/void-linux/</link>
-      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
       <guid>https://memlens.github.io/fr/tags/void-linux/</guid>
       <description></description>
     </item>
