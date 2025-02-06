@@ -9,6 +9,11 @@ categories = ["Portfolio"]
 lang = "en"
 +++
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 # **Châ-Fine Ayédoun ADEBI**  
 **Web & Software Developer**  
 [**Portfolio**](https://memlens.github.io/) | [**GitHub**](https://github.com/memlens) | [**Email**](mailto:achafine@gmail.com)
@@ -93,3 +98,7 @@ If you would like to discuss my projects, ask questions, or collaborate on new c
 **Email**: [achafine@gmail.com](mailto:achafine@gmail.com)  
 **GitHub**: [memlens](https://github.com/memlens)  
 **Portfolio**: [https://memlens.github.io/](https://memlens.github.io/portfolio)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

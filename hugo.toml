@@ -22,7 +22,7 @@ DefaultContentLanguageInSubdir = true
         weight = 1
     [[languages.en.menu.main]]
         name = "Portfolio"
-        url = "blog/portfolio/"
+        url = "page/portfolio/"
         weight = 3
 
     [[languages.en.menu.main]]
@@ -52,7 +52,7 @@ DefaultContentLanguageInSubdir = true
     
     [[languages.fr.menu.main]]
         name = "Portfolio"
-        url = "blog/portfolio/"
+        url = "page/portfolio/"
         weight = 3
 
 [params]
