@@ -10,6 +10,9 @@ lang = "fr"
 +++
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 # **Châ-Fine Ayédoun ADEBI**  
 **Développeur Web & Logiciel**  
@@ -95,3 +98,7 @@ Si tu souhaites discuter de mes projets, poser des questions, ou collaborer sur 
 **Email** : [achafine@gmail.com](mailto:achafine@gmail.com)  
 **GitHub** : [memlens](https://github.com/memlens)  
 **Portfolio** : [https://memlens.github.io/](https://memlens.github.io/portfolio)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
