@@ -16,10 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://memlens.github.io/fr/categories/linux/</link>
+      <title>Linux Tutoriel</title>
+      <link>https://memlens.github.io/fr/categories/linux-tutoriel/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/categories/linux/</guid>
+      <guid>https://memlens.github.io/fr/categories/linux-tutoriel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Tutoriels</title>
+      <link>https://memlens.github.io/fr/categories/linux-tutoriels/</link>
+      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <guid>https://memlens.github.io/fr/categories/linux-tutoriels/</guid>
       <description></description>
     </item>
   </channel>

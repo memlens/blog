@@ -6,20 +6,27 @@
     <description>Recent content in Categories on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Tutorials</title>
+      <link>https://memlens.github.io/en/categories/linux-tutorials/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/categories/linux-tutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome to Linux</title>
+      <link>https://memlens.github.io/en/categories/welcome-to-linux/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/categories/welcome-to-linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Portfolio</title>
       <link>https://memlens.github.io/en/categories/portfolio/</link>
       <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
       <guid>https://memlens.github.io/en/categories/portfolio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://memlens.github.io/en/categories/linux/</link>
-      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/en/categories/linux/</guid>
       <description></description>
     </item>
   </channel>

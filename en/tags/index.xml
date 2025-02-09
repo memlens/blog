@@ -6,8 +6,106 @@
     <description>Recent content in Tags on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
     <atom:link href="https://memlens.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command Line</title>
+      <link>https://memlens.github.io/en/tags/command-line/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/command-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://memlens.github.io/en/tags/linux/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Commands</title>
+      <link>https://memlens.github.io/en/tags/linux-commands/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/linux-commands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipelines</title>
+      <link>https://memlens.github.io/en/tags/pipelines/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/pipelines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redirection</title>
+      <link>https://memlens.github.io/en/tags/redirection/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/redirection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>https://memlens.github.io/en/tags/terminal/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>File Operations</title>
+      <link>https://memlens.github.io/en/tags/file-operations/</link>
+      <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/file-operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filesystem</title>
+      <link>https://memlens.github.io/en/tags/filesystem/</link>
+      <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/filesystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power User</title>
+      <link>https://memlens.github.io/en/tags/power-user/</link>
+      <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/power-user/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Tutorials</title>
+      <link>https://memlens.github.io/en/tags/linux-tutorials/</link>
+      <pubDate>Sat, 08 Feb 2025 19:25:46 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/linux-tutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GNU</title>
+      <link>https://memlens.github.io/en/tags/gnu/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/gnu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Kernel</title>
+      <link>https://memlens.github.io/en/tags/linux-kernel/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/linux-kernel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>https://memlens.github.io/en/tags/open-source/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>https://memlens.github.io/en/tags/shell/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/shell/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Portfolio</title>
       <link>https://memlens.github.io/en/tags/portfolio/</link>
@@ -23,10 +121,17 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://memlens.github.io/en/tags/linux/</link>
+      <title>Installation</title>
+      <link>https://memlens.github.io/en/tags/installation/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/en/tags/linux/</guid>
+      <guid>https://memlens.github.io/en/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installing</title>
+      <link>https://memlens.github.io/en/tags/installing/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/installing/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +142,17 @@
       <description></description>
     </item>
     <item>
-      <title>Void Linux</title>
-      <link>https://memlens.github.io/en/tags/void-linux/</link>
+      <title>Ubuntu</title>
+      <link>https://memlens.github.io/en/tags/ubuntu/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/en/tags/void-linux/</guid>
+      <guid>https://memlens.github.io/en/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VirtualBox</title>
+      <link>https://memlens.github.io/en/tags/virtualbox/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/virtualbox/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +160,13 @@
       <link>https://memlens.github.io/en/tags/beginners/</link>
       <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
       <guid>https://memlens.github.io/en/tags/beginners/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Void Linux</title>
+      <link>https://memlens.github.io/en/tags/void-linux/</link>
+      <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
+      <guid>https://memlens.github.io/en/tags/void-linux/</guid>
       <description></description>
     </item>
     <item>
