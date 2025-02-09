@@ -22,7 +22,7 @@ Got it? Great! Now, let’s move to the good stuff: **the filesystem**. It's lik
 
 ### **2. The Linux Filesystem Structure: What's Inside?**
 
-Unlike Windows, where everything is usually stored under **C:\\**, Linux has a **single root directory** (`/`)—yep, just one big ol' folder that houses everything. It’s like the **home base** of your system. 🏠
+Unlike Windows, where everything is usually stored under **C:\\**, Linux has a **single root directory** (`/`) yep, just one big ol' folder that houses everything. It’s like the **home base** of your system. 🏠
 
 Here’s a **visual representation** of the Linux filesystem to help you see how everything is structured:
 
@@ -48,13 +48,13 @@ Now let’s break it down further:
 
 | Directory | Purpose |
 |-----------|---------|
-| `/` | The root directory—everything starts here. |
+| `/` | The root directory everything starts here. |
 | `/home` | Personal files live here. Each user gets their own folder (e.g., `/home/yourname`). |
 | `/bin` | Essential system commands like `ls`, `cp`, and `mkdir`. |
 | `/usr/bin` | User-installed software and utilities. |
 | `/etc` | System-wide configuration files (like Linux system settings). |
 | `/var` | Stores logs, databases, and files that change frequently. |
-| `/tmp` | Temporary files—deleted automatically after reboot. |
+| `/tmp` | Temporary files deleted automatically after reboot. |
 
 **What’s the difference between `/bin` and `/usr/bin`?**
 - `/bin` contains essential commands needed to boot and repair the system.
@@ -88,7 +88,7 @@ Always double-check that you’re logged in as a **regular user** for everyday t
 
 ### **4. Paths: The Address System of Linux**
 
-Every file and directory in Linux has a **path**—a unique address that tells you where it lives.
+Every file and directory in Linux has a **path** a unique address that tells you where it lives.
 
 #### **🔹 Absolute Path (The Full Address)**
 An **absolute path** starts from `/` (the root directory) and gives the complete address of a file or folder.
@@ -147,7 +147,7 @@ The `find` command helps you locate **anything, anywhere** in your filesystem. �
 
 Congrats! You’re now equipped with the tools to **navigate** the Linux filesystem like a true pro. But don’t stop here! The filesystem is your playground, and there’s a lot more to explore.
 
-Now that you can navigate like a boss, let’s level up by learning how to **manipulate files**—copying, moving, and even renaming them like a Linux ninja! 🥷
+Now that you can navigate like a boss, let’s level up by learning how to **manipulate files** copying, moving, and even renaming them like a Linux ninja! 🥷
 
 **[Next: File Manipulation Mastery]({{< relref "mastering-File-Operations-in-Linux" >}})**
 

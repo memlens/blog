@@ -37,7 +37,7 @@ This is my file
 
 ### **3. Copying Files: Because You Can Never Have Too Many Copies!** 📦
 
-- **`cp`**: Want to make a copy of a file or directory? `cp` is your friend.
+- **`cp`**: Want to make a copy of a file or directory ? `cp` is your friend.
     ```bash
     $ cp newfile.txt copy_of_newfile.txt
     $ ls
@@ -52,7 +52,7 @@ This is my file
 
 ### **4. Moving & Renaming Files: From One Place to Another** 🚚
 
-- **`mv`**: Move a file from one directory to another, or **rename** it!
+- **`mv`**: Move a file from one directory to another, or **rename** it !
     ```bash
     $ mv newfile.txt /home/yourname/Backup
     ```
@@ -65,7 +65,7 @@ This is my file
 
 ### **5. Deleting Files: Do It Safely!** 🗑️
 
-🚨 **BE CAREFUL** with `rm`! It permanently deletes files.
+🚨 **BE CAREFUL** with `rm` ! It permanently deletes files.
 
 - **Basic Deletion:**
     ```bash
@@ -140,7 +140,7 @@ This is my file
 
 Now that you’ve mastered the basic file operations, you’re well on your way to becoming a **command line superstar**! ✨ You can create, move, copy, delete, and search files like a pro. But we’re not stopping here.
 
-In the next tutorial, we’ll dive into into builtins, external commands, aliases, and functions—each playing a vital role in helping you execute tasks quickly and effectively. Ready to level up? Let’s get started!
+In the next tutorial, we’ll dive into into builtins, external commands, aliases, and functions each playing a vital role in helping you execute tasks quickly and effectively. Ready to level up? Let’s get started!
 
 **[Next: Understanding and Mastering Linux Commands]({{< relref "understanding-and-Mastering-Linux-Commands" >}})**
 

@@ -31,6 +31,7 @@ DefaultContentLanguageInSubdir = true
         weight = 2
 
 
+
   [languages.fr]
     contentDir = "content/fr" #Français
     weight = 2
@@ -54,6 +55,8 @@ DefaultContentLanguageInSubdir = true
         name = "Portfolio"
         url = "page/portfolio/"
         weight = 3
+
+
 
 [params]
   # Enable the darkmode toggle in header
@@ -109,19 +112,19 @@ DefaultContentLanguageInSubdir = true
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  system = "giscus"
+# system = "giscus"
 
   # Options for giscus, exclude hyphens
-  repo = "memlens/memlens.github.io"
-  repoid = "R_kgDONyKtPA"
-  category = "Announcements"
-  categoryid = "DIC_kwDONyKtPM4Cmggs"
-  mapping = "pathname"
-  strict = "0"
-  reactionsenabled = "1"
-  emitmetadata = "0"
-  inputposition = "bottom"
-  theme = "preferred_color_scheme"
+#repo = "memlens/memlens.github.io"
+# repoid = "R_kgDONyKtPA"
+# category = "Announcements"
+# categoryid = "DIC_kwDONyKtPM4Cmggs"
+# mapping = "pathname"
+# strict = "0"
+# reactionsenabled = "1"
+# emitmetadata = "0"
+# inputposition = "bottom"
+# theme = "preferred_color_scheme"
 
   # Options for utterances, exclude hyphens
   # repo = ""
