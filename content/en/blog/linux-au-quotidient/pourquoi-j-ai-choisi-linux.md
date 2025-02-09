@@ -5,7 +5,7 @@ draft = false
 author = 'Ayedoun Châ-Fine ADEBI'
 description = 'Why i choose linux'
 tags = ["Linux","Void Linux", "Tutorial", "Beginners"]
-categories = ["Linux"]
+categories = ["Linux Tutorials"]
 lang = "en"
 +++
 

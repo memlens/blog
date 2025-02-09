@@ -5,7 +5,7 @@ author = 'Ayedoun Châ-Fine ADEBI'
 description = "Pourquoi j'ai choisi linux"
 title = "Pourquoi j’ai choisi Linux : Mon parcours et mes conseils pour débuter"
 tags = ["Linux", "Void Linux", "Tutoriel", "Débutant"]
-categories = ["Linux"]
+categories = ["Linux Tutoriels"]
 lang = "fr"
 +++
 

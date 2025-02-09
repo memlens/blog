@@ -3,8 +3,8 @@ date = '2025-02-04T04:07:11+01:00'
 draft = false
 author = 'Ayedoun Châ-Fine ADEBI'
 description = "Choosing Your Linux Distribution"
-tags = ["Linux", "Void Linux", "Tutorial", "Beginner"]
-categories = ["Linux"]
+tags = ["Linux", "Tutorial", "Beginner", "VirtualBox", "Ubuntu", "Installing", "Installation"]
+categories = ["Linux Tutorials"]
 lang = "en"
 title = 'Choosing Your Linux Distribution and Installing Ubuntu on VirtualBox'
 +++
