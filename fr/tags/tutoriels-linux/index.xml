@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriels Linux on memlens</title>
+    <link>http://localhost:1313/fr/tags/tutoriels-linux/</link>
+    <description>Recent content in Tutoriels Linux on memlens</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 08 Feb 2025 19:25:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/tutoriels-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro</title>
+      <link>http://localhost:1313/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
+      <pubDate>Sat, 08 Feb 2025 19:25:46 +0100</pubDate>
+      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
+      <description>&lt;h3 id=&#34;1-un-petit-récapitulatif-juste-au-cas-où-&#34;&gt;&lt;strong&gt;1. Un petit récapitulatif (juste au cas où !)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Avant de plonger dans le monde sauvage des fichiers et des répertoires 🗂️, faisons rapidement un récapitulatif de ce que nous avons appris jusqu’à présent dans &lt;a href=&#34;http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction au Shell Linux&lt;/a&gt;&#xA; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le noyau Linux&lt;/strong&gt; : Le cerveau 🧠 de votre système.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Les outils GNU&lt;/strong&gt; : Les muscles 💪 qui rendent le noyau utilisable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le Shell&lt;/strong&gt; : Votre centre de commande 🎮 pour tout ce qui touche à Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;C’est bon ? Parfait ! Passons maintenant aux choses sérieuses : &lt;strong&gt;le système de fichiers&lt;/strong&gt;. C&amp;rsquo;est comme la &lt;strong&gt;carte&lt;/strong&gt; de votre système 🗺️, et une fois que vous saurez comment le naviguer, vous trouverez ce que vous cherchez en un clin d&amp;rsquo;œil !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bienvenue sur Linux 1 : Introduction au Shell Linux</title>
+      <link>http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
+      <description>&lt;h3 id=&#34;1-avertissement--à-qui-sadresse-ce-tutoriel-&#34;&gt;&lt;strong&gt;1. Avertissement : À qui s&amp;rsquo;adresse ce tutoriel ?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Attendez une seconde ! 🚨 Avant d&amp;rsquo;entrer dans le vif du sujet, clarifions quelque chose. Ce tutoriel &lt;strong&gt;n&amp;rsquo;est pas&lt;/strong&gt; destiné à ceux qui cherchent simplement une &amp;ldquo;alternative à Linux&amp;rdquo; pour remplacer Windows ou macOS. Si vous êtes ici parce que vous voulez remplacer votre OS par quelque chose de &amp;ldquo;cool&amp;rdquo; sans trop vous soucier de ce qui se passe sous le capot, ce n&amp;rsquo;est probablement pas le bon endroit pour vous.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GNU on memlens</title>
-    <link>https://memlens.github.io/en/tags/gnu/</link>
+    <link>http://localhost:1313/en/tags/gnu/</link>
     <description>Recent content in GNU on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 Feb 2025 18:36:37 +0100</lastBuildDate>
-    <atom:link href="https://memlens.github.io/en/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Linux 1 : Introduction to the Linux Shell</title>
-      <link>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
+      <link>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
       <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
-      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
+      <guid>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
       <description>&lt;h3 id=&#34;1-disclaimer-who-is-this-tutorial-for&#34;&gt;&lt;strong&gt;1. Disclaimer: Who is This Tutorial For?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Alright, hold up! 🚨 Before we get into the juicy bits, let’s clear something up. This tutorial is &lt;strong&gt;not&lt;/strong&gt; for those just looking for a &amp;ldquo;Linux alternative&amp;rdquo; to Windows or macOS. If you&amp;rsquo;re here because you want to swap your OS for something &amp;ldquo;cool&amp;rdquo; and don&amp;rsquo;t care much about what goes on under the hood, this might not be the right place for you.&lt;/p&gt;</description>
     </item>
   </channel>

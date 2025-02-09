@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Tutoriel on memlens</title>
-    <link>https://memlens.github.io/fr/categories/linux-tutoriel/</link>
+    <link>http://localhost:1313/fr/categories/linux-tutoriel/</link>
     <description>Recent content in Linux Tutoriel on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 04 Feb 2025 04:07:11 +0100</lastBuildDate>
-    <atom:link href="https://memlens.github.io/fr/categories/linux-tutoriel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/categories/linux-tutoriel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Choisir sa Distribution Linux et Installer Ubuntu sur VirtualBox</title>
-      <link>https://memlens.github.io/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/</link>
+      <link>http://localhost:1313/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/</guid>
-      <description>&lt;h2 id=&#34;pourquoi-linux--&#34;&gt;&lt;strong&gt;Pourquoi Linux ?&lt;/strong&gt; 🐧&lt;/h2&gt;&#xA;&lt;img src=&#34;https://memlens.github.io/images/choisir-sa-distro-linux/pourquoi-linux.jpg&#34; width=&#34;200px&#34;&gt;&#xA;&lt;p&gt;Quand on entend parler de Linux pour la première fois, on imagine souvent un hacker masqué dans un film hollywoodien&amp;hellip; &lt;strong&gt;Mais en réalité, Linux est bien plus que ça !&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;https://memlens.github.io/media/posts/2025/02/choisir-sa-distro-linux/hacker.webp&#34; width=&#34;200px&#34; &gt;&#xA;Imaginez Linux comme &lt;strong&gt;une grande famille de systèmes d&amp;rsquo;exploitation&lt;/strong&gt; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le noyau Linux&lt;/strong&gt; → Le &amp;ldquo;coeur&amp;rdquo; commun à tous (comme le scénario d&amp;rsquo;une série)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Les distributions&lt;/strong&gt; → Les déclinaisons avec leurs personnalités uniques (comme les personnages)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contrairement à Windows/macOS, Linux vous offre :&lt;br&gt;&#xA;🔓 &lt;strong&gt;Liberté totale&lt;/strong&gt; : Personnalisez &lt;em&gt;tout&lt;/em&gt; (interface, sécurité, performances)&lt;br&gt;&#xA;🚀 &lt;strong&gt;Légèreté&lt;/strong&gt; : Redonnez vie à un vieux PC (ex: avec Lubuntu)&lt;br&gt;&#xA;🛡️ &lt;strong&gt;Sécurité&lt;/strong&gt; : Moins de virus grâce à l&amp;rsquo;open source et aux droits utilisateurs&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/</guid>
+      <description>&lt;h2 id=&#34;pourquoi-linux--&#34;&gt;&lt;strong&gt;Pourquoi Linux ?&lt;/strong&gt; 🐧&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/choisir-sa-distro-linux/pourquoi-linux.jpg&#34; width=&#34;200px&#34;&gt;&#xA;&lt;p&gt;Quand on entend parler de Linux pour la première fois, on imagine souvent un hacker masqué dans un film hollywoodien&amp;hellip; &lt;strong&gt;Mais en réalité, Linux est bien plus que ça !&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/media/posts/2025/02/choisir-sa-distro-linux/hacker.webp&#34; width=&#34;200px&#34; &gt;&#xA;Imaginez Linux comme &lt;strong&gt;une grande famille de systèmes d&amp;rsquo;exploitation&lt;/strong&gt; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le noyau Linux&lt;/strong&gt; → Le &amp;ldquo;coeur&amp;rdquo; commun à tous (comme le scénario d&amp;rsquo;une série)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Les distributions&lt;/strong&gt; → Les déclinaisons avec leurs personnalités uniques (comme les personnages)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contrairement à Windows/macOS, Linux vous offre :&lt;br&gt;&#xA;🔓 &lt;strong&gt;Liberté totale&lt;/strong&gt; : Personnalisez &lt;em&gt;tout&lt;/em&gt; (interface, sécurité, performances)&lt;br&gt;&#xA;🚀 &lt;strong&gt;Légèreté&lt;/strong&gt; : Redonnez vie à un vieux PC (ex: avec Lubuntu)&lt;br&gt;&#xA;🛡️ &lt;strong&gt;Sécurité&lt;/strong&gt; : Moins de virus grâce à l&amp;rsquo;open source et aux droits utilisateurs&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

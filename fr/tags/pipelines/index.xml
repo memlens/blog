@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pipelines on memlens</title>
+    <link>http://localhost:1313/fr/tags/pipelines/</link>
+    <description>Recent content in Pipelines on memlens</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/pipelines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue sur Linux 5 : Maîtriser la Redirection &amp; les Pipelines</title>
+      <link>http://localhost:1313/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
+      <description>&lt;h3 id=&#34;1-introduction--contrôlez-le-flux-de-données-comme-un-pro--&#34;&gt;&lt;strong&gt;1. Introduction : Contrôlez le flux de données comme un pro !&lt;/strong&gt; 🚀&lt;/h3&gt;&#xA;&lt;p&gt;Maintenant que vous savez naviguer dans le système de fichiers et travailler avec des fichiers, il est temps de &lt;strong&gt;libérer toute la puissance de la ligne de commande&lt;/strong&gt; en maîtrisant la &lt;strong&gt;redirection&lt;/strong&gt; et les &lt;strong&gt;pipelines&lt;/strong&gt;. Ces fonctionnalités vous permettent de contrôler où vont les sorties, comment gérer les erreurs et comment les commandes interagissent entre elles.&lt;/p&gt;&#xA;&lt;p&gt;Prêt ? Allons-y ! 🔥&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,94 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on memlens</title>
-    <link>https://memlens.github.io/fr/tags/</link>
+    <link>http://localhost:1313/fr/tags/</link>
     <description>Recent content in Tags on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
-    <atom:link href="https://memlens.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portfolio</title>
-      <link>https://memlens.github.io/fr/tags/portfolio/</link>
-      <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/portfolio/</guid>
+      <title>Commandes Linux</title>
+      <link>http://localhost:1313/fr/tags/commandes-linux/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/commandes-linux/</guid>
       <description></description>
     </item>
     <item>
-      <title>Débutants</title>
-      <link>https://memlens.github.io/fr/tags/d%C3%A9butants/</link>
-      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/d%C3%A9butants/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Installation</title>
-      <link>https://memlens.github.io/fr/tags/installation/</link>
-      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/installation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Installing</title>
-      <link>https://memlens.github.io/fr/tags/installing/</link>
-      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/installing/</guid>
+      <title>Ligne De Commande</title>
+      <link>http://localhost:1313/fr/tags/ligne-de-commande/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/ligne-de-commande/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://memlens.github.io/fr/tags/linux/</link>
+      <link>http://localhost:1313/fr/tags/linux/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipelines</title>
+      <link>http://localhost:1313/fr/tags/pipelines/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/pipelines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redirection</title>
+      <link>http://localhost:1313/fr/tags/redirection/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/redirection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost:1313/fr/tags/terminal/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opérations Sur Les Fichiers</title>
+      <link>http://localhost:1313/fr/tags/op%C3%A9rations-sur-les-fichiers/</link>
+      <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/op%C3%A9rations-sur-les-fichiers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Système De Fichiers</title>
+      <link>http://localhost:1313/fr/tags/syst%C3%A8me-de-fichiers/</link>
+      <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/syst%C3%A8me-de-fichiers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utilisateur Avancé</title>
+      <link>http://localhost:1313/fr/tags/utilisateur-avanc%C3%A9/</link>
+      <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/utilisateur-avanc%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutoriels Linux</title>
+      <link>http://localhost:1313/fr/tags/tutoriels-linux/</link>
+      <pubDate>Sat, 08 Feb 2025 19:25:46 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/tutoriels-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GNU</title>
+      <link>http://localhost:1313/fr/tags/gnu/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/gnu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Noyau Linux</title>
+      <link>http://localhost:1313/fr/tags/noyau-linux/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/noyau-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/fr/tags/open-source/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>http://localhost:1313/fr/tags/shell/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/fr/tags/portfolio/</link>
+      <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Débutants</title>
+      <link>http://localhost:1313/fr/tags/d%C3%A9butants/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/linux/</guid>
+      <guid>http://localhost:1313/fr/tags/d%C3%A9butants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/fr/tags/installation/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installing</title>
+      <link>http://localhost:1313/fr/tags/installing/</link>
+      <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
+      <guid>http://localhost:1313/fr/tags/installing/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutoriel</title>
-      <link>https://memlens.github.io/fr/tags/tutoriel/</link>
+      <link>http://localhost:1313/fr/tags/tutoriel/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/tutoriel/</guid>
+      <guid>http://localhost:1313/fr/tags/tutoriel/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>https://memlens.github.io/fr/tags/ubuntu/</link>
+      <link>http://localhost:1313/fr/tags/ubuntu/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/ubuntu/</guid>
+      <guid>http://localhost:1313/fr/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>VirtualBox</title>
-      <link>https://memlens.github.io/fr/tags/virtualbox/</link>
+      <link>http://localhost:1313/fr/tags/virtualbox/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/virtualbox/</guid>
+      <guid>http://localhost:1313/fr/tags/virtualbox/</guid>
       <description></description>
     </item>
     <item>
       <title>Débutant</title>
-      <link>https://memlens.github.io/fr/tags/d%C3%A9butant/</link>
+      <link>http://localhost:1313/fr/tags/d%C3%A9butant/</link>
       <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/d%C3%A9butant/</guid>
+      <guid>http://localhost:1313/fr/tags/d%C3%A9butant/</guid>
       <description></description>
     </item>
     <item>
       <title>Void Linux</title>
-      <link>https://memlens.github.io/fr/tags/void-linux/</link>
+      <link>http://localhost:1313/fr/tags/void-linux/</link>
       <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/void-linux/</guid>
+      <guid>http://localhost:1313/fr/tags/void-linux/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://memlens.github.io/fr/tags/about/</link>
+      <link>http://localhost:1313/fr/tags/about/</link>
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/about/</guid>
+      <guid>http://localhost:1313/fr/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Me</title>
-      <link>https://memlens.github.io/fr/tags/me/</link>
+      <link>http://localhost:1313/fr/tags/me/</link>
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/tags/me/</guid>
+      <guid>http://localhost:1313/fr/tags/me/</guid>
       <description></description>
     </item>
   </channel>

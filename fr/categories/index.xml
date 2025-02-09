@@ -2,31 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on memlens</title>
-    <link>https://memlens.github.io/fr/categories/</link>
+    <link>http://localhost:1313/fr/categories/</link>
     <description>Recent content in Categories on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
-    <atom:link href="https://memlens.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue Sur Linux</title>
+      <link>http://localhost:1313/fr/categories/bienvenue-sur-linux/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/categories/bienvenue-sur-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutoriels Linux</title>
+      <link>http://localhost:1313/fr/categories/tutoriels-linux/</link>
+      <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
+      <guid>http://localhost:1313/fr/categories/tutoriels-linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Portfolio</title>
-      <link>https://memlens.github.io/fr/categories/portfolio/</link>
+      <link>http://localhost:1313/fr/categories/portfolio/</link>
       <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/categories/portfolio/</guid>
+      <guid>http://localhost:1313/fr/categories/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Tutoriel</title>
-      <link>https://memlens.github.io/fr/categories/linux-tutoriel/</link>
+      <link>http://localhost:1313/fr/categories/linux-tutoriel/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/categories/linux-tutoriel/</guid>
+      <guid>http://localhost:1313/fr/categories/linux-tutoriel/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Tutoriels</title>
-      <link>https://memlens.github.io/fr/categories/linux-tutoriels/</link>
+      <link>http://localhost:1313/fr/categories/linux-tutoriels/</link>
       <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/categories/linux-tutoriels/</guid>
+      <guid>http://localhost:1313/fr/categories/linux-tutoriels/</guid>
       <description></description>
     </item>
   </channel>

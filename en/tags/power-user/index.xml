@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power User on memlens</title>
-    <link>https://memlens.github.io/en/tags/power-user/</link>
+    <link>http://localhost:1313/en/tags/power-user/</link>
     <description>Recent content in Power User on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 Feb 2025 23:20:01 +0100</lastBuildDate>
-    <atom:link href="https://memlens.github.io/en/tags/power-user/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/power-user/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Linux 4: Understanding and Mastering Linux Commands</title>
-      <link>https://memlens.github.io/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</link>
+      <link>http://localhost:1313/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</link>
       <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
-      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</guid>
+      <guid>http://localhost:1313/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Now that you’ve learned how to manipulate files and directories, it’s time to take your command-line skills to the next level. Understanding the &lt;strong&gt;types of commands&lt;/strong&gt; you’ll encounter in Linux is crucial to effectively managing tasks and automating your workflow. Let’s break down the different command types you’ll use every day!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-types-of-linux-commands-the-building-blocks-&#34;&gt;&lt;strong&gt;1. Types of Linux Commands: The Building Blocks&lt;/strong&gt; 🧰&lt;/h3&gt;&#xA;&lt;p&gt;Before we jump into the specifics, let’s define &lt;strong&gt;Linux commands&lt;/strong&gt;. Simply put, commands in Linux are instructions you issue to the operating system through the shell. They come in different types, depending on their function and how they are executed. Let’s explore the &lt;strong&gt;four main types&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 3 : Mastering File Operations in Linux</title>
-      <link>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</link>
+      <link>http://localhost:1313/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</link>
       <pubDate>Sat, 08 Feb 2025 21:41:16 +0100</pubDate>
-      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</guid>
+      <guid>http://localhost:1313/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</guid>
       <description>&lt;h3 id=&#34;1-file-operations-101-lets-get-hands-on&#34;&gt;&lt;strong&gt;1. File Operations 101: Let&amp;rsquo;s Get Hands-On!&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the next level of Linux command mastery! 🥳 Now that you&amp;rsquo;ve learned how to navigate the filesystem, it&amp;rsquo;s time to &lt;strong&gt;dive deep&lt;/strong&gt; into the real power of the terminal: &lt;strong&gt;manipulating files&lt;/strong&gt;. Whether you want to create a new file, copy an important document, or delete something you regret, you&amp;rsquo;ll need to know these essential commands. 🧰&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-creating-files-youre-the-creator-now-&#34;&gt;&lt;strong&gt;2. Creating Files: You’re the Creator Now!&lt;/strong&gt; 📝&lt;/h3&gt;&#xA;&lt;p&gt;There are multiple ways to create files in Linux. Here are the most common methods:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 2 : Navigating the Linux Filesystem Like a Pro</title>
-      <link>https://memlens.github.io/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
+      <link>http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
       <pubDate>Sat, 08 Feb 2025 19:25:46 +0100</pubDate>
-      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
-      <description>&lt;h3 id=&#34;1-a-quick-recap-just-in-case&#34;&gt;&lt;strong&gt;1. A Quick Recap (Just in Case!)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Before we dive into the wild world of files and directories 🗂️, let&amp;rsquo;s quickly recap what we&amp;rsquo;ve learned so far in &lt;a href=&#34;https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction to the Linux Shell&lt;/a&gt;&#xA;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux Kernel&lt;/strong&gt;: The brain 🧠 of your system.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GNU Tools&lt;/strong&gt;: The muscles 💪 that make the kernel usable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Shell&lt;/strong&gt;: Your command center 🎮 for all things Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Got it? Great! Now, let’s move to the good stuff: &lt;strong&gt;the filesystem&lt;/strong&gt;. It&amp;rsquo;s like the &lt;strong&gt;map&lt;/strong&gt; of your system 🗺️, and once you know how to navigate it, you’ll be able to find what you&amp;rsquo;re looking for in a snap!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
+      <description>&lt;h3 id=&#34;1-a-quick-recap-just-in-case&#34;&gt;&lt;strong&gt;1. A Quick Recap (Just in Case!)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Before we dive into the wild world of files and directories 🗂️, let&amp;rsquo;s quickly recap what we&amp;rsquo;ve learned so far in &lt;a href=&#34;http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction to the Linux Shell&lt;/a&gt;&#xA;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux Kernel&lt;/strong&gt;: The brain 🧠 of your system.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GNU Tools&lt;/strong&gt;: The muscles 💪 that make the kernel usable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Shell&lt;/strong&gt;: Your command center 🎮 for all things Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Got it? Great! Now, let’s move to the good stuff: &lt;strong&gt;the filesystem&lt;/strong&gt;. It&amp;rsquo;s like the &lt;strong&gt;map&lt;/strong&gt; of your system 🗺️, and once you know how to navigate it, you’ll be able to find what you&amp;rsquo;re looking for in a snap!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 1 : Introduction to the Linux Shell</title>
-      <link>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
+      <link>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
       <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
-      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
+      <guid>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
       <description>&lt;h3 id=&#34;1-disclaimer-who-is-this-tutorial-for&#34;&gt;&lt;strong&gt;1. Disclaimer: Who is This Tutorial For?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Alright, hold up! 🚨 Before we get into the juicy bits, let’s clear something up. This tutorial is &lt;strong&gt;not&lt;/strong&gt; for those just looking for a &amp;ldquo;Linux alternative&amp;rdquo; to Windows or macOS. If you&amp;rsquo;re here because you want to swap your OS for something &amp;ldquo;cool&amp;rdquo; and don&amp;rsquo;t care much about what goes on under the hood, this might not be the right place for you.&lt;/p&gt;</description>
     </item>
   </channel>

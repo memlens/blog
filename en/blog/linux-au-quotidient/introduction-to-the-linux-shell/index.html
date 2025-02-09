@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/WebPage"><head>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -10,15 +10,12 @@
   </title>
   <meta name="description" content="Explore the core components of Linux—the kernel and the GNU Project—before diving into mastering the shell for total control over your system." />
   <meta name="author" content="Ayedoun Châ-Fine ADEBI" />
-  <meta name="generator" content="Hugo 0.143.1"><link
-    rel="stylesheet"
-    href="https://memlens.github.io/css/styles.min.b4e3071606fe76bbad88fad43217b5fd5c358a49a505950fe5da358a4049a514.css"
-    integrity="sha256-tOMHFgb+drutiPrUMhe1/Vw1ikmlBZUP5do1ikBJpRQ="
-  />
+  <meta name="generator" content="Hugo 0.143.1">
+  <link rel="stylesheet" href="/css/styles.css" />
   
   
 
-  <meta property="og:url" content="https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/">
+  <meta property="og:url" content="http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/">
   <meta property="og:site_name" content="memlens">
   <meta property="og:title" content="Welcome to Linux 1 : Introduction to the Linux Shell">
   <meta property="og:description" content="Explore the core components of Linux—the kernel and the GNU Project—before diving into mastering the shell for total control over your system.">
@@ -44,7 +41,7 @@
   <meta itemprop="description" content="Explore the core components of Linux—the kernel and the GNU Project—before diving into mastering the shell for total control over your system.">
   <meta itemprop="datePublished" content="2025-02-08T18:36:37+01:00">
   <meta itemprop="dateModified" content="2025-02-08T18:36:37+01:00">
-  <meta itemprop="wordCount" content="678">
+  <meta itemprop="wordCount" content="687">
   <meta itemprop="keywords" content="Linux,Shell,GNU,Linux Kernel,Command Line,Open Source,Linux Tutorials,Power User">
 
   
@@ -52,7 +49,7 @@
   
 </head>
 <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
-  <a href="https://memlens.github.io/en/" class="capitalize font-extrabold text-2xl">
+  <a href="http://localhost:1313/en/" class="capitalize font-extrabold text-2xl">
     
     <img src="/blist-logo.png" alt="memlens" class="h-8 max-w-full" />
     
@@ -174,9 +171,9 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      678&nbsp;words
+      687&nbsp;words
       
-        
+        &nbsp;&bull;&nbsp;Other languages: &nbsp;<a href="http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/" lang="fr">Français</a>
       
     </h5>
     
@@ -226,28 +223,28 @@
 
     <h3 id="1-disclaimer-who-is-this-tutorial-for"><strong>1. Disclaimer: Who is This Tutorial For?</strong></h3>
 <p>Alright, hold up! 🚨 Before we get into the juicy bits, let’s clear something up. This tutorial is <strong>not</strong> for those just looking for a &ldquo;Linux alternative&rdquo; to Windows or macOS. If you&rsquo;re here because you want to swap your OS for something &ldquo;cool&rdquo; and don&rsquo;t care much about what goes on under the hood, this might not be the right place for you.</p>
-<p>We’re about to take a <strong>deep dive</strong> into Linux for those who want to <strong>level up</strong> and really understand how it ticks. If you’re ready to <strong>embrace the full power</strong> of Linux—<strong>control it</strong>, <strong>customize it</strong>, and <strong>make it your own</strong>—then congrats, my friend, you’ve come to the right place! 🚀</p>
+<p>We’re about to take a <strong>deep dive</strong> into Linux for those who want to <strong>level up</strong> and really understand how it ticks. If you’re ready to <strong>embrace the full power</strong> of Linux <strong>control it</strong>, <strong>customize it</strong>, and <strong>make it your own</strong> then congrats, my friend, you’ve come to the right place! 🚀</p>
 <hr>
 <h3 id="2-what-is-the-linux-kernel"><strong>2. What is the Linux Kernel?</strong></h3>
-<p>So let’s talk about the <strong>Linux kernel</strong>. In simple terms: it’s the <strong>brain</strong> of your Linux system. 🧠 It’s the <strong>core engine</strong> that makes everything run. When you install Linux, you’re installing a kernel that talks directly to your hardware—managing the CPU, memory, and all those important things that make your computer&hellip;well, work. 🖥️</p>
+<p>So let’s talk about the <strong>Linux kernel</strong>. In simple terms: it’s the <strong>brain</strong> of your Linux system. 🧠 It’s the <strong>core engine</strong> that makes everything run. When you install Linux, you’re installing a kernel that talks directly to your hardware managing the CPU, memory, and all those important things that make your computer&hellip;well, work. 🖥️</p>
 <p>But here’s the catch: the kernel <strong>isn’t</strong> enough on its own. It’s like trying to drive a car without wheels. You need <strong>tools</strong> to make the system usable. And this is where the <strong>GNU Project</strong> comes to the rescue.</p>
 <hr>
 <h3 id="3-the-gnu-project-building-the-linux-user-space"><strong>3. The GNU Project: Building the Linux User Space</strong></h3>
-<p>Picture this: back in 1983, Richard Stallman (legend) decided to build a <strong>free software universe</strong>—an entire operating system that anyone could freely use and modify. Enter the <strong>GNU Project</strong>. It aimed to create the essential tools and utilities (like compilers, text editors, and shells) that would make interacting with the kernel more… well, user-friendly. 🛠️</p>
-<p>By the early &rsquo;90s, the tools were ready—but they were missing one crucial thing: a <strong>kernel</strong>. Enter <strong>Linux</strong>! 🎉 When the <strong>Linux kernel</strong> met the <strong>GNU tools</strong>, they became the dynamic duo that we now know as a <strong>Linux distribution</strong>. This combo allows you to interact with your system, run programs, and make your system truly yours!</p>
+<p>Picture this: back in 1983, Richard Stallman (legend) decided to build a <strong>free software universe</strong> an entire operating system that anyone could freely use and modify. Enter the <strong>GNU Project</strong>. It aimed to create the essential tools and utilities (like compilers, text editors, and shells) that would make interacting with the kernel more… well, user-friendly. 🛠️</p>
+<p>By the early &rsquo;90s, the tools were ready but they were missing one crucial thing: a <strong>kernel</strong>. Enter <strong>Linux</strong>! 🎉 When the <strong>Linux kernel</strong> met the <strong>GNU tools</strong>, they became the dynamic duo that we now know as a <strong>Linux distribution</strong>. This combo allows you to interact with your system, run programs, and make your system truly yours!</p>
 <hr>
 <h3 id="4-how-linux-the-kernel-and-gnu-work-together"><strong>4. How Linux, the Kernel, and GNU Work Together</strong></h3>
 <p>Now that you know about the kernel and the GNU Project, let’s talk about the magic of <strong>how they all work together</strong>. 🧩</p>
 <p>A typical Linux system is made up of three main parts:</p>
 <ol>
-<li><strong>The Linux Kernel</strong>: The brain 🧠—it talks to your hardware, manages resources, and makes your system run smoothly.</li>
-<li><strong>The GNU Tools</strong>: The tools 🛠️—these are the utilities (like <code>ls</code>, <code>cd</code>, <code>grep</code>, <code>gcc</code>, etc.) that allow you to interact with the kernel and get things done.</li>
-<li><strong>The Shell</strong>: Your personal command center 🎮—this is where you issue commands and do your thing. Without the shell, well, you’d be staring at a blank screen, and that’s no fun.</li>
+<li><strong>The Linux Kernel</strong>: The brain 🧠 it talks to your hardware, manages resources, and makes your system run smoothly.</li>
+<li><strong>The GNU Tools</strong>: The tools 🛠️ these are the utilities (like <code>ls</code>, <code>cd</code>, <code>grep</code>, <code>gcc</code>, etc.) that allow you to interact with the kernel and get things done.</li>
+<li><strong>The Shell</strong>: Your personal command center 🎮 this is where you issue commands and do your thing. Without the shell, well, you’d be staring at a blank screen, and that’s no fun.</li>
 </ol>
 <p>Without the kernel, you’ve got nothing. Without the GNU tools, the kernel’s just… lonely. But together, they form a <strong>complete and powerful operating system</strong> that can do practically anything. 🤖</p>
 <hr>
 <h3 id="5-the-role-of-the-shell-in-this-ecosystem"><strong>5. The Role of the Shell in This Ecosystem</strong></h3>
-<p>Now that you know the basics of the <strong>Linux kernel</strong> and <strong>GNU tools</strong>, let’s talk about the <strong>shell</strong>—aka your <strong>command center</strong>. 🚀</p>
+<p>Now that you know the basics of the <strong>Linux kernel</strong> and <strong>GNU tools</strong>, let’s talk about the <strong>shell</strong> aka your <strong>command center</strong>. 🚀</p>
 <p>Think of the shell as your <strong>control panel</strong>. It’s where you can do pretty much everything: manage files, install software, or even write scripts that do your bidding. While graphical user interfaces (GUIs) are all about clicks and menus, the shell is all about <strong>speed</strong>, <strong>control</strong>, and <strong>flexibility</strong>. If you can master the shell, you’ll be able to do things that most users don’t even know are possible! 💥</p>
 <p>And guess what? <strong>Mastering the shell</strong> is <strong>key</strong> to unlocking the true power of Linux. So if you’re looking to become a Linux ninja 🥷, this is where you start!</p>
 <hr>
@@ -256,27 +253,7 @@
 <p><a href="/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/">Next : Navigating the Linux Filesystem Like a Pro</a>
 </p>
 
-  </article>
-<div class="px-2 mb-2">
-  
-  <script src="https://giscus.app/client.js"
-    data-repo="memlens/memlens.github.io"
-    data-repo-id="R_kgDONyKtPA"
-    data-category="Announcements"
-    data-category-id="DIC_kwDONyKtPM4Cmggs"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="bottom"
-    data-theme="preferred_color_scheme"
-    data-lang="en"
-    crossorigin="anonymous"
-    async>
-  </script>
-  
-</div>
-<div class="bg-blue-100 dark:bg-gray-900">
+  </article><div class="bg-blue-100 dark:bg-gray-900">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
     <div>
       <div class="text-2xl font-bold mb-2">Follow me</div>
@@ -802,7 +779,7 @@
 
 
 
-<script src="https://memlens.github.io/js/scripts.min.js"></script>
+<script src="http://localhost:1313/js/scripts.min.js"></script>
 
 
 

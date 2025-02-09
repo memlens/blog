@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="icon" href="/favicon.svg">
+
+  <title>
+  Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro - memlens
+  </title>
+  <meta name="description" content="Apprenez à naviguer dans le système de fichiers Linux comme un pro ! Maîtrisez les commandes de base et avancées pour gérer les fichiers, les répertoires et tout ce qui se trouve entre les deux." />
+  <meta name="author" content="Ayedoun Châ-Fine ADEBI" />
+  <meta name="generator" content="Hugo 0.143.1">
+  <link rel="stylesheet" href="/css/styles.css" />
+  
+  
+
+  <meta property="og:url" content="http://localhost:1313/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/">
+  <meta property="og:site_name" content="memlens">
+  <meta property="og:title" content="Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro">
+  <meta property="og:description" content="Apprenez à naviguer dans le système de fichiers Linux comme un pro ! Maîtrisez les commandes de base et avancées pour gérer les fichiers, les répertoires et tout ce qui se trouve entre les deux.">
+  <meta property="og:locale" content="fr">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2025-02-08T19:25:46+01:00">
+    <meta property="article:modified_time" content="2025-02-08T19:25:46+01:00">
+    <meta property="article:tag" content="Linux">
+    <meta property="article:tag" content="Système De Fichiers">
+    <meta property="article:tag" content="Commandes Linux">
+    <meta property="article:tag" content="Tutoriels Linux">
+    <meta property="article:tag" content="Ligne De Commande">
+    <meta property="article:tag" content="Terminal">
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro">
+  <meta name="twitter:description" content="Apprenez à naviguer dans le système de fichiers Linux comme un pro ! Maîtrisez les commandes de base et avancées pour gérer les fichiers, les répertoires et tout ce qui se trouve entre les deux.">
+
+  
+  <meta itemprop="name" content="Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro">
+  <meta itemprop="description" content="Apprenez à naviguer dans le système de fichiers Linux comme un pro ! Maîtrisez les commandes de base et avancées pour gérer les fichiers, les répertoires et tout ce qui se trouve entre les deux.">
+  <meta itemprop="datePublished" content="2025-02-08T19:25:46+01:00">
+  <meta itemprop="dateModified" content="2025-02-08T19:25:46+01:00">
+  <meta itemprop="wordCount" content="861">
+  <meta itemprop="keywords" content="Linux,Système De Fichiers,Commandes Linux,Tutoriels Linux,Ligne De Commande,Terminal,Utilisateur Avancé">
+
+  
+  <meta name="lang" content="fr" />
+  
+</head>
+<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
+  <a href="http://localhost:1313/fr/" class="capitalize font-extrabold text-2xl">
+    
+    <img src="/blist-logo.png" alt="memlens" class="h-8 max-w-full" />
+    
+  </a>
+  <button class="mobile-menu-button md:hidden">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <line x1="4" y1="8" x2="20" y2="8" />
+      <line x1="4" y1="16" x2="20" y2="16" />
+    </svg>
+  </button>
+  <ul class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
+
+    
+    <li><a href="/fr/blog">Blog</a></li>
+    
+    <li><a href="/fr/page/about/">A propos</a></li>
+    
+    <li><a href="/fr/page/portfolio/">Portfolio</a></li>
+    
+
+    
+    
+    <li class="flex items-center">
+      
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-2" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5"
+        stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+        <circle cx="12" cy="12" r="9" />
+        <line x1="3.6" y1="9" x2="20.4" y2="9" />
+        <line x1="3.6" y1="15" x2="20.4" y2="15" />
+        <path d="M11.5 3a17 17 0 0 0 0 18" />
+        <path d="M12.5 3a17 17 0 0 1 0 18" />
+      </svg>
+      <a href="/en/" lang="en">English</a>
+      
+      
+      
+      
+    </li>
+    
+    
+
+    
+    <li class="grid place-items-center">
+      <span class="open-search inline-block cursor-pointer">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <circle cx="10" cy="10" r="7" />
+          <line x1="21" y1="21" x2="15" y2="15" />
+        </svg>
+      </span>
+    </li>
+    
+
+    
+    <li class="grid place-items-center">
+      <span class="toggle-dark-mode inline-block cursor-pointer">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <circle cx="12" cy="12" r="3" />
+          <line x1="12" y1="5" x2="12" y2="5.01" />
+          <line x1="17" y1="7" x2="17" y2="7.01" />
+          <line x1="19" y1="12" x2="19" y2="12.01" />
+          <line x1="17" y1="17" x2="17" y2="17.01" />
+          <line x1="12" y1="19" x2="12" y2="19.01" />
+          <line x1="7" y1="17" x2="7" y2="17.01" />
+          <line x1="5" y1="12" x2="5" y2="12.01" />
+          <line x1="7" y1="7" x2="7" y2="7.01" />
+        </svg>
+      </span>
+    </li>
+    
+  </ul>
+</header>
+<main class="flex-1">
+  
+  
+
+  
+
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+
+    <h1 class="text-2xl font-bold mb-2">Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro</h1>
+    
+    <h5 class="text-sm flex items-center flex-wrap">
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <rect x="4" y="5" width="16" height="16" rx="2" />
+        <line x1="16" y1="3" x2="16" y2="7" />
+        <line x1="8" y1="3" x2="8" y2="7" />
+        <line x1="4" y1="11" x2="20" y2="11" />
+        <rect x="8" y="15" width="2" height="2" />
+      </svg>
+      Posté le 
+  
+    08. Février 2025
+  
+
+
+      
+        &nbsp;&bull;&nbsp;
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <circle cx="12" cy="12" r="9" />
+        <polyline points="12 7 12 12 15 15" />
+      </svg>
+      5&nbsp;minutes
+      &nbsp;&bull;
+      <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M3 19a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <path d="M3 6a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <line x1="3" y1="6" x2="3" y2="19" />
+        <line x1="12" y1="6" x2="12" y2="19" />
+        <line x1="21" y1="6" x2="21" y2="19" />
+      </svg>
+      861&nbsp;mots
+      
+        &nbsp;&bull;&nbsp;Autres langues: &nbsp;<a href="http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/" lang="en">English</a>
+      
+    </h5>
+    
+
+    <details id="TableOfContents" class="px-4 mt-4 bg-gray-100 dark:bg-gray-700 rounded toc">
+    <summary class="flex items-center font-bold py-2 px-4 cursor-pointer justify-between select-none text-black dark:text-white">
+      <span>Table of contents</span>
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <polyline points="6 9 12 15 18 9"></polyline>
+     </svg>
+    </summary>
+
+    <ul class="mt-2 pb-4">
+        
+
+        
+        <li>
+        <a href="#1-un-petit-r%c3%a9capitulatif-juste-au-cas-o%c3%b9-"><strong>1. Un petit récapitulatif (juste au cas où !)</strong></a>
+        
+
+        
+        </li><li>
+        <a href="#2-la-structure-du-syst%c3%a8me-de-fichiers-linux--quest-ce-quil-y-a-%c3%a0-lint%c3%a9rieur-"><strong>2. La structure du système de fichiers Linux : Qu&rsquo;est-ce qu&rsquo;il y a à l&rsquo;intérieur ?</strong></a>
+        
+
+        
+        </li><li>
+        <a href="#3-commandes-de-base-pour-naviguer-dans-le-syst%c3%a8me-de-fichiers"><strong>3. Commandes de base pour naviguer dans le système de fichiers</strong></a>
+        
+
+        
+        </li><li>
+        <a href="#4-les-chemins--le-syst%c3%a8me-dadresse-de-linux"><strong>4. Les chemins : Le système d&rsquo;adresse de Linux</strong></a>
+        
+
+        
+        <ul>
+            <li>
+        <a href="#-chemin-absolu-ladresse-compl%c3%a8te"><strong>🔹 Chemin absolu (L&rsquo;adresse complète)</strong></a>
+        
+
+        
+        </li><li>
+        <a href="#-chemin-relatif-raccourci-vers-une-destination"><strong>🔹 Chemin relatif (Raccourci vers une destination)</strong></a>
+        
+
+        
+        </li></ul>
+      </li><li>
+        <a href="#5-rechercher-des-fichiers-efficacement"><strong>5. Rechercher des fichiers efficacement</strong></a>
+        
+
+        
+        <ul>
+            <li>
+        <a href="#-jokers"><strong>🔹 Jokers</strong></a>
+        
+
+        
+        </li><li>
+        <a href="#-find--loutil-de-recherche-ultime"><strong>🔹 <code>find</code> : L&rsquo;outil de recherche ultime</strong></a>
+        
+
+        
+        </li></ul>
+      </li><li>
+        <a href="#6-prochaines-%c3%a9tapes--devenez-un-pro-du-syst%c3%a8me-de-fichiers"><strong>6. Prochaines étapes : Devenez un pro du système de fichiers</strong></a>
+        </li></ul>
+  </details>
+
+    <h3 id="1-un-petit-récapitulatif-juste-au-cas-où-"><strong>1. Un petit récapitulatif (juste au cas où !)</strong></h3>
+<p>Avant de plonger dans le monde sauvage des fichiers et des répertoires 🗂️, faisons rapidement un récapitulatif de ce que nous avons appris jusqu’à présent dans <a href="/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/">Introduction au Shell Linux</a>
+ :</p>
+<ul>
+<li><strong>Le noyau Linux</strong> : Le cerveau 🧠 de votre système.</li>
+<li><strong>Les outils GNU</strong> : Les muscles 💪 qui rendent le noyau utilisable.</li>
+<li><strong>Le Shell</strong> : Votre centre de commande 🎮 pour tout ce qui touche à Linux.</li>
+</ul>
+<p>C’est bon ? Parfait ! Passons maintenant aux choses sérieuses : <strong>le système de fichiers</strong>. C&rsquo;est comme la <strong>carte</strong> de votre système 🗺️, et une fois que vous saurez comment le naviguer, vous trouverez ce que vous cherchez en un clin d&rsquo;œil !</p>
+<hr>
+<h3 id="2-la-structure-du-système-de-fichiers-linux--quest-ce-quil-y-a-à-lintérieur-"><strong>2. La structure du système de fichiers Linux : Qu&rsquo;est-ce qu&rsquo;il y a à l&rsquo;intérieur ?</strong></h3>
+<p>Contrairement à Windows, où tout est généralement stocké sous <strong>C:\</strong>, Linux possède un <strong>répertoire racine unique</strong> (<code>/</code>) oui, un grand dossier unique qui abrite tout. C’est comme la <strong>base de votre système</strong>. 🏠</p>
+<p>Voici une <strong>représentation visuelle</strong> du système de fichiers Linux pour vous aider à voir comment tout est structuré :</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>/
+</span></span><span style="display:flex;"><span>├── home
+</span></span><span style="display:flex;"><span>│   ├── votre_nom
+</span></span><span style="display:flex;"><span>│   │   ├── Documents
+</span></span><span style="display:flex;"><span>│   │   ├── Téléchargements
+</span></span><span style="display:flex;"><span>│   │   ├── Images
+</span></span><span style="display:flex;"><span>│   │   └── Musique
+</span></span><span style="display:flex;"><span>├── bin
+</span></span><span style="display:flex;"><span>├── etc
+</span></span><span style="display:flex;"><span>├── usr
+</span></span><span style="display:flex;"><span>│   ├── bin
+</span></span><span style="display:flex;"><span>│   ├── lib
+</span></span><span style="display:flex;"><span>│   ├── share
+</span></span><span style="display:flex;"><span>├── var
+</span></span><span style="display:flex;"><span>└── tmp
+</span></span></code></pre></div><p>Voyons maintenant les détails :</p>
+<table>
+  <thead>
+      <tr>
+          <th>Répertoire</th>
+          <th>But</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>/</code></td>
+          <td>Le répertoire racine—tout commence ici.</td>
+      </tr>
+      <tr>
+          <td><code>/home</code></td>
+          <td>Les fichiers personnels sont ici. Chaque utilisateur a son propre dossier (ex : <code>/home/votre_nom</code>).</td>
+      </tr>
+      <tr>
+          <td><code>/bin</code></td>
+          <td>Commandes essentielles du système comme <code>ls</code>, <code>cp</code>, et <code>mkdir</code>.</td>
+      </tr>
+      <tr>
+          <td><code>/usr/bin</code></td>
+          <td>Logiciels et utilitaires installés par l&rsquo;utilisateur.</td>
+      </tr>
+      <tr>
+          <td><code>/etc</code></td>
+          <td>Fichiers de configuration du système (comme les paramètres de Linux).</td>
+      </tr>
+      <tr>
+          <td><code>/var</code></td>
+          <td>Contient les journaux, bases de données, et fichiers qui changent fréquemment.</td>
+      </tr>
+      <tr>
+          <td><code>/tmp</code></td>
+          <td>Fichiers temporaires ils sont automatiquement supprimés après un redémarrage.</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Quelle est la différence entre <code>/bin</code> et <code>/usr/bin</code> ?</strong></p>
+<ul>
+<li><code>/bin</code> contient les commandes essentielles nécessaires pour démarrer et réparer le système.</li>
+<li><code>/usr/bin</code> contient des utilitaires supplémentaires qui ne sont pas critiques pour le démarrage du système, mais utiles pour les utilisateurs.</li>
+</ul>
+<hr>
+<h3 id="3-commandes-de-base-pour-naviguer-dans-le-système-de-fichiers"><strong>3. Commandes de base pour naviguer dans le système de fichiers</strong></h3>
+<p>Maintenant que vous connaissez bien le système de fichiers, examinons de plus près comment <strong>naviguer dans le système</strong> en fonction de <strong>qui vous êtes</strong> : êtes-vous un <strong>utilisateur normal</strong> ou l&rsquo;<strong>utilisateur root</strong> ? 🧐</p>
+<p>Il existe <strong>deux types d’utilisateurs</strong> en Linux qui comptent :</p>
+<ol>
+<li><strong>L’utilisateur normal (<code>$</code>)</strong> : C’est vous lorsque vous êtes connecté à votre compte personnel.</li>
+<li><strong>L’utilisateur root (<code>#</code>)</strong> : C’est l’<strong>administrateur</strong> du système. L’utilisateur root a <strong>un contrôle total</strong> sur le système, mais cela implique aussi une grande responsabilité (et un risque). ⚠️</li>
+</ol>
+<p>Alors, comment <strong>faire la différence</strong> ? C’est simple ! L&rsquo;<strong>invite</strong> change en fonction de l&rsquo;utilisateur :</p>
+<ul>
+<li>Lorsque vous êtes connecté en tant qu&rsquo;<strong>utilisateur normal</strong>, l&rsquo;invite ressemblera à ceci :
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$
+</span></span></code></pre></div></li>
+<li>Lorsque vous êtes connecté en tant que <strong>root</strong>, cela ressemblera à ceci :
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#6272a4">#</span>
+</span></span></code></pre></div></li>
+</ul>
+<p>Vérifiez toujours que vous êtes connecté en tant qu&rsquo;<strong>utilisateur normal</strong> pour les tâches quotidiennes afin d&rsquo;éviter des modifications accidentelles du système. 😱</p>
+<hr>
+<h3 id="4-les-chemins--le-système-dadresse-de-linux"><strong>4. Les chemins : Le système d&rsquo;adresse de Linux</strong></h3>
+<p>Chaque fichier et répertoire en Linux a un <strong>chemin</strong> une adresse unique qui vous indique où il se trouve.</p>
+<h4 id="-chemin-absolu-ladresse-complète"><strong>🔹 Chemin absolu (L&rsquo;adresse complète)</strong></h4>
+<p>Un <strong>chemin absolu</strong> commence par <code>/</code> (le répertoire racine) et donne l’adresse complète d’un fichier ou d’un répertoire.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>/home/votre_nom/Documents/mon_fichier.txt
+</span></span></code></pre></div><p>Considérez-le comme les <strong>coordonnées GPS</strong> d&rsquo;un fichier. 📌</p>
+<h4 id="-chemin-relatif-raccourci-vers-une-destination"><strong>🔹 Chemin relatif (Raccourci vers une destination)</strong></h4>
+<p>Un <strong>chemin relatif</strong> est basé sur votre <strong>position actuelle</strong> dans le système de fichiers. Au lieu d’écrire l’adresse complète, vous référencez les fichiers en fonction de l’endroit où vous êtes.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./mon_fichier.txt   <span style="color:#6272a4"># Se réfère à mon_fichier.txt dans le répertoire actuel</span>
+</span></span><span style="display:flex;"><span>../mon_fichier.txt  <span style="color:#6272a4"># Se réfère à mon_fichier.txt dans le répertoire parent</span>
+</span></span></code></pre></div><p>Les chemins relatifs permettent de gagner du temps lors de l’utilisation du terminal ! ⏳</p>
+<hr>
+<h3 id="5-rechercher-des-fichiers-efficacement"><strong>5. Rechercher des fichiers efficacement</strong></h3>
+<p>Vous voulez trouver tous les fichiers <code>.txt</code> dans votre répertoire ? Les jokers et <code>find</code> sont là pour vous aider ! 🎨</p>
+<h4 id="-jokers"><strong>🔹 Jokers</strong></h4>
+<ul>
+<li><strong><code>*</code></strong> : Correspond à n&rsquo;importe quel nombre de caractères.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ ls *.txt
+</span></span><span style="display:flex;"><span>notes.txt  rapport.txt  emploi_du_temps.txt
+</span></span></code></pre></div></li>
+<li><strong><code>?</code></strong> : Correspond à un seul caractère.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ ls fichier?.txt
+</span></span><span style="display:flex;"><span>fichier1.txt  fichier2.txt  fichierA.txt
+</span></span></code></pre></div></li>
+</ul>
+<h4 id="-find--loutil-de-recherche-ultime"><strong>🔹 <code>find</code> : L&rsquo;outil de recherche ultime</strong></h4>
+<ul>
+<li>Trouver un fichier par nom :
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ find /home -name <span style="color:#f1fa8c">&#34;*.txt&#34;</span>
+</span></span></code></pre></div></li>
+<li>Trouver des fichiers de plus de 100 Mo :
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ find /home -size +100M  
+</span></span></code></pre></div></li>
+<li>Trouver des fichiers modifiés dans les 7 derniers jours :
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ find /var/log -mtime -7  
+</span></span></code></pre></div></li>
+</ul>
+<p>La commande <code>find</code> vous aide à localiser <strong>n&rsquo;importe quoi, n&rsquo;importe où</strong> dans votre système de fichiers. 🔍</p>
+<hr>
+<h3 id="6-prochaines-étapes--devenez-un-pro-du-système-de-fichiers"><strong>6. Prochaines étapes : Devenez un pro du système de fichiers</strong></h3>
+<p>Félicitations ! Vous êtes maintenant équipé des outils nécessaires pour <strong>naviguer</strong> dans le système de fichiers Linux comme un véritable pro. Mais ne vous arrêtez pas ici ! Le système de fichiers est votre terrain de jeu, et il y a encore beaucoup à explorer.</p>
+<p>Maintenant que vous pouvez naviguer comme un chef, passons à l’étape suivante : <strong>manipuler des fichiers</strong> les copier, les déplacer et même les renommer comme un ninja de Linux ! 🥷</p>
+<p><strong><a href="/fr/blog/linux-au-quotidient/mastering-file-operations-in-linux/">Suivant : Maîtriser les opérations sur les fichiers en Linux</a>
+</strong></p>
+
+  </article><div class="bg-blue-100 dark:bg-gray-900">
+  <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+    <div>
+      <div class="text-2xl font-bold mb-2">Follow me</div>
+      <p class="opacity-60">I work on everything coding</p>
+    </div>
+
+    <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
+      
+
+      
+      <li>
+        <a
+          href="https://twitter.com/achafine/"
+          target="_blank"
+          rel="noopener"
+          aria-label="Twitter"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path
+              d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z"
+            />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://linkedin.com/in/adebi-ay%c3%a9doun-a92405259/"
+          target="_blank"
+          rel="noopener"
+          aria-label="LinkedIn"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <rect x="4" y="4" width="16" height="16" rx="2" />
+            <line x1="8" y1="11" x2="8" y2="16" />
+            <line x1="8" y1="8" x2="8" y2="8.01" />
+            <line x1="12" y1="16" x2="12" y2="11" />
+            <path d="M16 16v-3a2 2 0 0 0 -4 0" />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://github.com/memlens/"
+          target="_blank"
+          rel="noopener"
+          aria-label="GitHub"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path
+              d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"
+            />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://www.buymeacoffee.com/memlens"
+          target="_blank"
+          rel="noopener"
+          aria-label="Buy Me A Coffee"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M20.216 6.415l-.132-.666c-.119-.598-.388-1.163-1.001-1.379-.197-.069-.42-.098-.57-.241-.152-.143-.196-.366-.231-.572-.065-.378-.125-.756-.192-1.133-.057-.325-.102-.69-.25-.987-.195-.4-.597-.634-.996-.788a5.723 5.723 0 00-.626-.194c-1-.263-2.05-.36-3.077-.416a25.834 25.834 0 00-3.7.062c-.915.083-1.88.184-2.75.5-.318.116-.646.256-.888.501-.297.302-.393.77-.177 1.146.154.267.415.456.692.58.36.162.737.284 1.123.366 1.075.238 2.189.331 3.287.37 1.218.05 2.437.01 3.65-.118.299-.033.598-.073.896-.119.352-.054.578-.513.474-.834-.124-.383-.457-.531-.834-.473-.466.074-.96.108-1.382.146-1.177.08-2.358.082-3.536.006a22.228 22.228 0 01-1.157-.107c-.086-.01-.18-.025-.258-.036-.243-.036-.484-.08-.724-.13-.111-.027-.111-.185 0-.212h.005c.277-.06.557-.108.838-.147h.002c.131-.009.263-.032.394-.048a25.076 25.076 0 013.426-.12c.674.019 1.347.067 2.017.144l.228.031c.267.04.533.088.798.145.392.085.895.113 1.07.542.055.137.08.288.111.431l.319 1.484a.237.237 0 01-.199.284h-.003c-.037.006-.075.01-.112.015a36.704 36.704 0 01-4.743.295 37.059 37.059 0 01-4.699-.304c-.14-.017-.293-.042-.417-.06-.326-.048-.649-.108-.973-.161-.393-.065-.768-.032-1.123.161-.29.16-.527.404-.675.701-.154.316-.199.66-.267 1-.069.34-.176.707-.135 1.056.087.753.613 1.365 1.37 1.502a39.69 39.69 0 0011.343.376.483.483 0 01.535.53l-.071.697-1.018 9.907c-.041.41-.047.832-.125 1.237-.122.637-.553 1.028-1.182 1.171-.577.131-1.165.2-1.756.205-.656.004-1.31-.025-1.966-.022-.699.004-1.556-.06-2.095-.58-.475-.458-.54-1.174-.605-1.793l-.731-7.013-.322-3.094c-.037-.351-.286-.695-.678-.678-.336.015-.718.3-.678.679l.228 2.185.949 9.112c.147 1.344 1.174 2.068 2.446 2.272.742.12 1.503.144 2.257.156.966.016 1.942.053 2.892-.122 1.408-.258 2.465-1.198 2.616-2.657.34-3.332.683-6.663 1.024-9.995l.215-2.087a.484.484 0 01.39-.426c.402-.078.787-.212 1.074-.518.455-.488.546-1.124.385-1.766zm-1.478.772c-.145.137-.363.201-.578.233-2.416.359-4.866.54-7.308.46-1.748-.06-3.477-.254-5.207-.498-.17-.024-.353-.055-.47-.18-.22-.236-.111-.71-.054-.995.052-.26.152-.609.463-.646.484-.057 1.046.148 1.526.22.577.088 1.156.159 1.737.212 2.48.226 5.002.19 7.472-.14.45-.06.899-.13 1.345-.21.399-.072.84-.206 1.08.206.166.281.188.657.162.974a.544.544 0 01-.169.364zm-6.159 3.9c-.862.37-1.84.788-3.109.788a5.884 5.884 0 01-1.569-.217l.877 9.004c.065.78.717 1.38 1.5 1.38 0 0 1.243.065 1.658.065.447 0 1.786-.065 1.786-.065.783 0 1.434-.6 1.499-1.38l.94-9.95a3.996 3.996 0 00-1.322-.238c-.826 0-1.491.284-2.26.613z"/>
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://tiktok.com/@chafineadebi/"
+          target="_blank"
+          rel="noopener"
+          aria-label="Tiktok"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg"
+              class="icon icon-tabler icon-tabler-brand-tiktok"
+              width="23"
+              height="23"
+              viewBox="0 0 448 512"
+              stroke-width="30"
+              stroke="currentColor"
+              fill="none">
+            <path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"/>
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://youtube.com/@memlens/"
+          target="_blank"
+          rel="noopener"
+          aria-label="YouTube"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="icon icon-tabler icon-tabler-brand-youtube"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <circle cx="12" cy="12" r="9" />
+            <path d="M10 9l5 3l-5 3z" />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://instagram.com/@chafineadebi/"
+          target="_blank"
+          rel="noopener"
+          aria-label="Instagram"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="icon icon-tabler icon-tabler-brand-instagram"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M7.8,2H16.2C19.4,2 22,4.6 22,7.8V16.2A5.8,5.8 0 0,1 16.2,22H7.8C4.6,22 2,19.4 2,16.2V7.8A5.8,5.8 0 0,1 7.8,2M7.6,4A3.6,3.6 0 0,0 4,7.6V16.4C4,18.39 5.61,20 7.6,20H16.4A3.6,3.6 0 0,0 20,16.4V7.6C20,5.61 18.39,4 16.4,4H7.6M17.25,5.5A1.25,1.25 0 0,1 18.5,6.75A1.25,1.25 0 0,1 17.25,8A1.25,1.25 0 0,1 16,6.75A1.25,1.25 0 0,1 17.25,5.5M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z" />
+            <circle cx="12" cy="12" r="9" />
+            <path d="M10 9l5 3l-5 3z" />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+    </ul>
+  </div>
+</div>
+
+    </main><footer class="container p-6 mx-auto flex justify-between items-center">
+  <span class="text-sm font-light">
+    
+    Copyright © 2021 - Ayedoun Châ-Fine ADEBI · All rights reserved
+    
+  </span>
+  <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="p-1 cursor-pointer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"
+      stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M18 15l-6 -6l-6 6h12" />
+    </svg>
+  </span>
+</footer>
+
+<div class="search-ui absolute top-0 left-0 w-full h-full bg-white dark:bg-gray-800 hidden">
+  <div class="container max-w-3xl mx-auto p-12">
+    <div class="relative">
+      <div class="my-4 text-center text-2xl font-bold">Search</div>
+
+      <span class="p-2 absolute right-0 top-0 cursor-pointer close-search">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <line x1="18" y1="6" x2="6" y2="18" />
+          <line x1="6" y1="6" x2="18" y2="18" />
+        </svg>
+      </span>
+    </div>
+
+    <input type="search" class="py-2 px-3 w-full dark:text-black border dark:border-transparent"
+      placeholder="Enter search query" />
+
+    <div class="search-results text-lg font-medium my-4 hidden">Results</div>
+    <ul class="search-list my-2">
+
+    </ul>
+
+    <div class="no-results text-center my-8 hidden">
+      <div class="text-xl font-semibold mb-2">No results found</div>
+      <p class="font-light text-sm">Try adjusting your search query</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<script src="http://localhost:1313/js/scripts.min.js"></script>
+
+
+
+
+
+
+<script>
+  
+  const darkmode = document.querySelector('.toggle-dark-mode');
+  function toggleDarkMode() {
+    if (document.documentElement.classList.contains('dark')) {
+      document.documentElement.classList.remove('dark')
+      localStorage.setItem('darkmode', 'light')
+    } else {
+      document.documentElement.classList.add('dark')
+      localStorage.setItem('darkmode', 'dark')
+    }
+  }
+  if (darkmode) {
+    darkmode.addEventListener('click', toggleDarkMode);
+  }
+
+  const darkStorage = localStorage.getItem('darkmode');
+  const isBrowserDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  if (!darkStorage && isBrowserDark) {
+    document.documentElement.classList.add('dark');
+  }
+
+  if (darkStorage && darkStorage === 'dark') {
+    toggleDarkMode();
+  }
+</script>
+
+
+<script>
+  const mobileMenuButton = document.querySelector('.mobile-menu-button')
+  const mobileMenu = document.querySelector('.mobile-menu')
+  function toggleMenu() {
+    mobileMenu.classList.toggle('hidden');
+    mobileMenu.classList.toggle('flex');
+  }
+  if(mobileMenu && mobileMenuButton){
+    mobileMenuButton.addEventListener('click', toggleMenu)
+  }
+</script>
+</body>
+</html>

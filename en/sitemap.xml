@@ -2,320 +2,430 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://memlens.github.io/en/blog/</loc>
+    <loc>http://localhost:1313/en/blog/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/blog/"
+                href="http://localhost:1313/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/blog/"
+                href="http://localhost:1313/en/blog/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/command-line/</loc>
+    <loc>http://localhost:1313/en/tags/command-line/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/tags/linux/</loc>
+    <loc>http://localhost:1313/en/tags/linux/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/linux/"
+                href="http://localhost:1313/fr/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/linux/"
+                href="http://localhost:1313/en/tags/linux/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/linux-commands/</loc>
+    <loc>http://localhost:1313/en/tags/linux-commands/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/categories/linux-tutorials/</loc>
+    <loc>http://localhost:1313/en/categories/linux-tutorials/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/pipelines/</loc>
-    <lastmod>2025-02-09T01:27:32+01:00</lastmod>
-  </url><url>
-    <loc>https://memlens.github.io/en/tags/redirection/</loc>
-    <lastmod>2025-02-09T01:27:32+01:00</lastmod>
-  </url><url>
-    <loc>https://memlens.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/pipelines/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/"
+                href="http://localhost:1313/fr/tags/pipelines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/pipelines/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/terminal/</loc>
+    <loc>http://localhost:1313/en/tags/redirection/</loc>
+    <lastmod>2025-02-09T01:27:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/redirection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/redirection/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2025-02-09T01:27:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/terminal/</loc>
+    <lastmod>2025-02-09T01:27:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/terminal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/terminal/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/welcome-to-linux/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/categories/welcome-to-linux/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</loc>
     <lastmod>2025-02-09T01:27:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/mastering-redirection-pipelines/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</loc>
-    <lastmod>2025-02-09T01:27:32+01:00</lastmod>
-  </url><url>
-    <loc>https://memlens.github.io/en/tags/file-operations/</loc>
+    <loc>http://localhost:1313/en/tags/file-operations/</loc>
     <lastmod>2025-02-08T23:20:01+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/tags/filesystem/</loc>
+    <loc>http://localhost:1313/en/tags/filesystem/</loc>
     <lastmod>2025-02-08T23:20:01+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/tags/power-user/</loc>
+    <loc>http://localhost:1313/en/tags/power-user/</loc>
     <lastmod>2025-02-08T23:20:01+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</loc>
     <lastmod>2025-02-08T23:20:01+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</loc>
     <lastmod>2025-02-08T21:41:16+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/mastering-file-operations-in-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/linux-tutorials/</loc>
+    <loc>http://localhost:1313/en/tags/linux-tutorials/</loc>
     <lastmod>2025-02-08T19:25:46+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</loc>
     <lastmod>2025-02-08T19:25:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/gnu/</loc>
+    <loc>http://localhost:1313/en/tags/gnu/</loc>
+    <lastmod>2025-02-08T18:36:37+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/gnu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/gnu/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/linux-kernel/</loc>
     <lastmod>2025-02-08T18:36:37+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/tags/linux-kernel/</loc>
+    <loc>http://localhost:1313/en/tags/open-source/</loc>
     <lastmod>2025-02-08T18:36:37+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/open-source/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/open-source/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/open-source/</loc>
+    <loc>http://localhost:1313/en/tags/shell/</loc>
     <lastmod>2025-02-08T18:36:37+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/shell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/shell/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/shell/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</loc>
     <lastmod>2025-02-08T18:36:37+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/"
+                />
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</loc>
-    <lastmod>2025-02-08T18:36:37+01:00</lastmod>
-  </url><url>
-    <loc>https://memlens.github.io/en/page/portfolio/</loc>
+    <loc>http://localhost:1313/en/page/portfolio/</loc>
     <lastmod>2025-02-05T23:51:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/page/portfolio/"
+                href="http://localhost:1313/fr/page/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/page/portfolio/"
+                href="http://localhost:1313/en/page/portfolio/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/page/</loc>
+    <loc>http://localhost:1313/en/page/</loc>
     <lastmod>2025-02-05T23:51:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/page/"
+                href="http://localhost:1313/fr/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/page/"
+                href="http://localhost:1313/en/page/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/portfolio/</loc>
+    <loc>http://localhost:1313/en/tags/portfolio/</loc>
     <lastmod>2025-02-05T23:51:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/portfolio/"
+                href="http://localhost:1313/fr/tags/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/portfolio/"
+                href="http://localhost:1313/en/tags/portfolio/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/categories/portfolio/</loc>
+    <loc>http://localhost:1313/en/categories/portfolio/</loc>
     <lastmod>2025-02-05T23:51:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/categories/portfolio/"
+                href="http://localhost:1313/fr/categories/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/categories/portfolio/"
+                href="http://localhost:1313/en/categories/portfolio/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/beginner/</loc>
+    <loc>http://localhost:1313/en/tags/beginner/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/choisir-sa-distro-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/choisir-sa-distro-linux/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/installation/</loc>
+    <loc>http://localhost:1313/en/tags/installation/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/installation/"
+                href="http://localhost:1313/fr/tags/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/installation/"
+                href="http://localhost:1313/en/tags/installation/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/installing/</loc>
+    <loc>http://localhost:1313/en/tags/installing/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/installing/"
+                href="http://localhost:1313/fr/tags/installing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/installing/"
+                href="http://localhost:1313/en/tags/installing/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/tutorial/</loc>
+    <loc>http://localhost:1313/en/tags/tutorial/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/tags/ubuntu/</loc>
-    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://memlens.github.io/fr/tags/ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://memlens.github.io/en/tags/ubuntu/"
-                />
-  </url><url>
-    <loc>https://memlens.github.io/en/tags/virtualbox/</loc>
+    <loc>http://localhost:1313/en/tags/ubuntu/</loc>
     <lastmod>2025-02-04T04:07:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/virtualbox/"
+                href="http://localhost:1313/fr/tags/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/virtualbox/"
+                href="http://localhost:1313/en/tags/ubuntu/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/beginners/</loc>
+    <loc>http://localhost:1313/en/tags/virtualbox/</loc>
+    <lastmod>2025-02-04T04:07:11+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/virtualbox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/virtualbox/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/beginners/</loc>
     <lastmod>2025-01-31T11:16:36+01:00</lastmod>
   </url><url>
-    <loc>https://memlens.github.io/en/tags/void-linux/</loc>
+    <loc>http://localhost:1313/en/tags/void-linux/</loc>
     <lastmod>2025-01-31T11:16:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/void-linux/"
+                href="http://localhost:1313/fr/tags/void-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/void-linux/"
+                href="http://localhost:1313/en/tags/void-linux/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</loc>
+    <loc>http://localhost:1313/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</loc>
     <lastmod>2025-01-31T11:16:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/"
+                href="http://localhost:1313/fr/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/"
+                href="http://localhost:1313/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/about/</loc>
+    <loc>http://localhost:1313/en/tags/about/</loc>
     <lastmod>2025-01-31T06:22:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/about/"
+                href="http://localhost:1313/fr/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/about/"
+                href="http://localhost:1313/en/tags/about/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/page/about/</loc>
+    <loc>http://localhost:1313/en/page/about/</loc>
     <lastmod>2025-01-31T06:22:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/page/about/"
+                href="http://localhost:1313/fr/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/page/about/"
+                href="http://localhost:1313/en/page/about/"
                 />
   </url><url>
-    <loc>https://memlens.github.io/en/tags/me/</loc>
+    <loc>http://localhost:1313/en/tags/me/</loc>
     <lastmod>2025-01-31T06:22:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://memlens.github.io/fr/tags/me/"
+                href="http://localhost:1313/fr/tags/me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memlens.github.io/en/tags/me/"
+                href="http://localhost:1313/en/tags/me/"
                 />
   </url>
 </urlset>

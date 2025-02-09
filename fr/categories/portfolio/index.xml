@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on memlens</title>
-    <link>https://memlens.github.io/fr/categories/portfolio/</link>
+    <link>http://localhost:1313/fr/categories/portfolio/</link>
     <description>Recent content in Portfolio on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
-    <atom:link href="https://memlens.github.io/fr/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon Portfolio</title>
-      <link>https://memlens.github.io/fr/page/portfolio/</link>
+      <link>http://localhost:1313/fr/page/portfolio/</link>
       <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
-      <guid>https://memlens.github.io/fr/page/portfolio/</guid>
+      <guid>http://localhost:1313/fr/page/portfolio/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xA;  &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;châ-fine-ayédoun-adebi&#34;&gt;&lt;strong&gt;Châ-Fine Ayédoun ADEBI&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Développeur Web &amp;amp; Logiciel&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://memlens.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;https://github.com/memlens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;mailto:achafine@gmail.com&#34;&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;à-propos-de-moi&#34;&gt;&lt;strong&gt;À propos de moi&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Salut ! Je suis &lt;strong&gt;Châ-Fine Ayedoun&lt;/strong&gt;, un passionné de technologie avec un intérêt particulier pour le &lt;strong&gt;développement logiciel&lt;/strong&gt;, &lt;strong&gt;l&amp;rsquo;optimisation des performances&lt;/strong&gt;, et la &lt;strong&gt;scalabilité des applications&lt;/strong&gt;. Actuellement en &lt;strong&gt;Licence 3 en Informatique&lt;/strong&gt;, je suis en constante recherche de nouveaux défis et opportunités pour approfondir mes compétences et travailler sur des projets innovants.&lt;/p&gt;&#xA;&lt;p&gt;Mon objectif est de devenir un développeur polyvalent, capable de contribuer à des projets complexes en &lt;strong&gt;back-end&lt;/strong&gt;, d&amp;rsquo;améliorer la &lt;strong&gt;performance&lt;/strong&gt; des systèmes et de garantir leur &lt;strong&gt;scalabilité&lt;/strong&gt;. Je suis également passionné par l&amp;rsquo;&lt;strong&gt;open source&lt;/strong&gt; et l&amp;rsquo;&lt;strong&gt;intelligence artificielle&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

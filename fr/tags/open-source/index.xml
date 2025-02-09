@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on memlens</title>
+    <link>http://localhost:1313/fr/tags/open-source/</link>
+    <description>Recent content in Open Source on memlens</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 08 Feb 2025 18:36:37 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue sur Linux 1 : Introduction au Shell Linux</title>
+      <link>http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
+      <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
+      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
+      <description>&lt;h3 id=&#34;1-avertissement--à-qui-sadresse-ce-tutoriel-&#34;&gt;&lt;strong&gt;1. Avertissement : À qui s&amp;rsquo;adresse ce tutoriel ?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Attendez une seconde ! 🚨 Avant d&amp;rsquo;entrer dans le vif du sujet, clarifions quelque chose. Ce tutoriel &lt;strong&gt;n&amp;rsquo;est pas&lt;/strong&gt; destiné à ceux qui cherchent simplement une &amp;ldquo;alternative à Linux&amp;rdquo; pour remplacer Windows ou macOS. Si vous êtes ici parce que vous voulez remplacer votre OS par quelque chose de &amp;ldquo;cool&amp;rdquo; sans trop vous soucier de ce qui se passe sous le capot, ce n&amp;rsquo;est probablement pas le bon endroit pour vous.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
