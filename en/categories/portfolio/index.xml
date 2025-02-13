@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on memlens</title>
-    <link>http://localhost:1313/en/categories/portfolio/</link>
+    <link>https://memlens.github.io/en/categories/portfolio/</link>
     <description>Recent content in Portfolio on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlens.github.io/en/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Portfolio</title>
-      <link>http://localhost:1313/en/page/portfolio/</link>
+      <link>https://memlens.github.io/en/page/portfolio/</link>
       <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/en/page/portfolio/</guid>
+      <guid>https://memlens.github.io/en/page/portfolio/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xA;  &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;châ-fine-ayédoun-adebi&#34;&gt;&lt;strong&gt;Châ-Fine Ayédoun ADEBI&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Web &amp;amp; Software Developer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://memlens.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;https://github.com/memlens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;mailto:achafine@gmail.com&#34;&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Hi! I’m &lt;strong&gt;Châ-Fine Ayedoun&lt;/strong&gt;, a tech enthusiast with a particular focus on &lt;strong&gt;software development&lt;/strong&gt;, &lt;strong&gt;performance optimization&lt;/strong&gt;, and &lt;strong&gt;application scalability&lt;/strong&gt;. Currently pursuing a &lt;strong&gt;Bachelor’s degree in Computer Science&lt;/strong&gt;, I am constantly seeking new challenges and opportunities to deepen my skills and work on innovative projects.&lt;/p&gt;&#xA;&lt;p&gt;My goal is to become a versatile developer, capable of contributing to complex &lt;strong&gt;back-end&lt;/strong&gt; projects, enhancing system &lt;strong&gt;performance&lt;/strong&gt;, and ensuring &lt;strong&gt;scalability&lt;/strong&gt;. I am also passionate about &lt;strong&gt;open source&lt;/strong&gt; and &lt;strong&gt;artificial intelligence&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

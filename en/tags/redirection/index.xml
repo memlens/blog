@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redirection on memlens</title>
-    <link>http://localhost:1313/en/tags/redirection/</link>
+    <link>https://memlens.github.io/en/tags/redirection/</link>
     <description>Recent content in Redirection on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/redirection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlens.github.io/en/tags/redirection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Linux 5: Mastering Redirection &amp; Pipelines</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
       <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
       <description>&lt;h3 id=&#34;1-introduction-control-the-data-flow-like-a-pro-&#34;&gt;&lt;strong&gt;1. Introduction: Control the Data Flow Like a Pro!&lt;/strong&gt; 🚀&lt;/h3&gt;&#xA;&lt;p&gt;Now that you know how to navigate the filesystem and work with files, it’s time to &lt;strong&gt;unlock the full power of the command line&lt;/strong&gt; by mastering &lt;strong&gt;redirection&lt;/strong&gt; and &lt;strong&gt;pipelines&lt;/strong&gt;. These features let you control where output goes, how errors are handled, and how commands interact with each other.&lt;/p&gt;&#xA;&lt;p&gt;Ready? Let’s dive in! 🔥&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-standard-input-output-and-error-streams&#34;&gt;&lt;strong&gt;2. Standard Input, Output, and Error Streams&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Every command in Linux interacts with three data streams:&lt;/p&gt;</description>
     </item>
   </channel>

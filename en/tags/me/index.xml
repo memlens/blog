@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Me on memlens</title>
-    <link>http://localhost:1313/en/tags/me/</link>
+    <link>https://memlens.github.io/en/tags/me/</link>
     <description>Recent content in Me on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Jan 2025 06:22:17 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlens.github.io/en/tags/me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/page/about/</link>
+      <link>https://memlens.github.io/en/page/about/</link>
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
-      <guid>http://localhost:1313/en/page/about/</guid>
+      <guid>https://memlens.github.io/en/page/about/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to my blog! 🚀&lt;/h1&gt;&#xA;&lt;p&gt;(~) $: whoami _&lt;/p&gt;&#xA;&lt;p&gt;Passionate about tech, Linux systems, and development, I created this space to share my knowledge and experiences around &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;advanced configurations&lt;/strong&gt;, &lt;strong&gt;Programming&lt;/strong&gt;, and much more.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-youll-find-here-&#34;&gt;What you&amp;rsquo;ll find here 🛠️&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Detailed tutorials&lt;/strong&gt; on installing and customizing Linux distributions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Configuration guides&lt;/strong&gt; to optimize your work environment&lt;/li&gt;&#xA;&lt;li&gt;Articles on essential tools for developers and sysadmins&lt;/li&gt;&#xA;&lt;li&gt;Explorations of &lt;strong&gt;web development&lt;/strong&gt; and DevOps best practices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-this-blog-&#34;&gt;Why this blog? 💡&lt;/h2&gt;&#xA;&lt;p&gt;Linux offers incredible freedom, but making the most of its potential sometimes requires time and experimentation. My goal is to make these discoveries accessible and provide useful resources to help you improve productivity and efficiency on your system.&lt;/p&gt;</description>
     </item>
   </channel>

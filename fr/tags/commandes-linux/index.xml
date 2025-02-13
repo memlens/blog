@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Commandes Linux on memlens</title>
-    <link>http://localhost:1313/fr/tags/commandes-linux/</link>
+    <link>https://memlens.github.io/fr/tags/commandes-linux/</link>
     <description>Recent content in Commandes Linux on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/commandes-linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlens.github.io/fr/tags/commandes-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenue sur Linux 5 : Maîtriser la Redirection &amp; les Pipelines</title>
-      <link>http://localhost:1313/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
+      <link>https://memlens.github.io/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
       <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
-      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
+      <guid>https://memlens.github.io/fr/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
       <description>&lt;h3 id=&#34;1-introduction--contrôlez-le-flux-de-données-comme-un-pro--&#34;&gt;&lt;strong&gt;1. Introduction : Contrôlez le flux de données comme un pro !&lt;/strong&gt; 🚀&lt;/h3&gt;&#xA;&lt;p&gt;Maintenant que vous savez naviguer dans le système de fichiers et travailler avec des fichiers, il est temps de &lt;strong&gt;libérer toute la puissance de la ligne de commande&lt;/strong&gt; en maîtrisant la &lt;strong&gt;redirection&lt;/strong&gt; et les &lt;strong&gt;pipelines&lt;/strong&gt;. Ces fonctionnalités vous permettent de contrôler où vont les sorties, comment gérer les erreurs et comment les commandes interagissent entre elles.&lt;/p&gt;&#xA;&lt;p&gt;Prêt ? Allons-y ! 🔥&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bienvenue sur Linux 4 : Comprendre et maîtriser les commandes Linux</title>
-      <link>http://localhost:1313/fr/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</link>
+      <link>https://memlens.github.io/fr/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</link>
       <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
-      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</guid>
+      <guid>https://memlens.github.io/fr/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Objectif&lt;/strong&gt; : Maintenant que vous avez appris à manipuler les fichiers et répertoires, il est temps de passer à un niveau supérieur dans vos compétences en ligne de commande. Comprendre les &lt;strong&gt;types de commandes&lt;/strong&gt; que vous rencontrerez sous Linux est essentiel pour gérer efficacement vos tâches et automatiser votre flux de travail. Découvrons ensemble les &lt;strong&gt;quatre principaux types&lt;/strong&gt; de commandes que vous utiliserez au quotidien !&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-types-de-commandes-linux--les-éléments-de-base-&#34;&gt;&lt;strong&gt;1. Types de commandes Linux : Les éléments de base&lt;/strong&gt; 🧰&lt;/h3&gt;&#xA;&lt;p&gt;Avant de plonger dans les détails, définissons ce que sont les &lt;strong&gt;commandes Linux&lt;/strong&gt;. En termes simples, les commandes Linux sont des instructions que vous donnez au système d&amp;rsquo;exploitation via le shell. Elles se présentent sous différentes formes en fonction de leur fonction et de la manière dont elles sont exécutées. Voyons les &lt;strong&gt;quatre types principaux&lt;/strong&gt; :&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bienvenue sur Linux 3 : Maîtriser les opérations sur les fichiers en Linux</title>
-      <link>http://localhost:1313/fr/blog/linux-au-quotidient/mastering-file-operations-in-linux/</link>
+      <link>https://memlens.github.io/fr/blog/linux-au-quotidient/mastering-file-operations-in-linux/</link>
       <pubDate>Sat, 08 Feb 2025 21:41:16 +0100</pubDate>
-      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/mastering-file-operations-in-linux/</guid>
+      <guid>https://memlens.github.io/fr/blog/linux-au-quotidient/mastering-file-operations-in-linux/</guid>
       <description>&lt;h3 id=&#34;1-les-opérations-sur-les-fichiers-101--passons-à-la-pratique-&#34;&gt;&lt;strong&gt;1. Les opérations sur les fichiers 101 : Passons à la pratique !&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Bienvenue au niveau supérieur de la maîtrise des commandes Linux ! 🥳 Maintenant que vous avez appris à naviguer dans le système de fichiers, il est temps de &lt;strong&gt;plonger dans la véritable puissance du terminal&lt;/strong&gt; : &lt;strong&gt;manipuler des fichiers&lt;/strong&gt;. Que vous vouliez créer un nouveau fichier, copier un document important ou supprimer quelque chose que vous regrettez, vous devrez connaître ces commandes essentielles. 🧰&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bienvenue sur Linux 2 : Naviguer dans le système de fichiers Linux comme un pro</title>
-      <link>http://localhost:1313/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
+      <link>https://memlens.github.io/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
       <pubDate>Sat, 08 Feb 2025 19:25:46 +0100</pubDate>
-      <guid>http://localhost:1313/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
-      <description>&lt;h3 id=&#34;1-un-petit-récapitulatif-juste-au-cas-où-&#34;&gt;&lt;strong&gt;1. Un petit récapitulatif (juste au cas où !)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Avant de plonger dans le monde sauvage des fichiers et des répertoires 🗂️, faisons rapidement un récapitulatif de ce que nous avons appris jusqu’à présent dans &lt;a href=&#34;http://localhost:1313/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction au Shell Linux&lt;/a&gt;&#xA; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le noyau Linux&lt;/strong&gt; : Le cerveau 🧠 de votre système.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Les outils GNU&lt;/strong&gt; : Les muscles 💪 qui rendent le noyau utilisable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le Shell&lt;/strong&gt; : Votre centre de commande 🎮 pour tout ce qui touche à Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;C’est bon ? Parfait ! Passons maintenant aux choses sérieuses : &lt;strong&gt;le système de fichiers&lt;/strong&gt;. C&amp;rsquo;est comme la &lt;strong&gt;carte&lt;/strong&gt; de votre système 🗺️, et une fois que vous saurez comment le naviguer, vous trouverez ce que vous cherchez en un clin d&amp;rsquo;œil !&lt;/p&gt;</description>
+      <guid>https://memlens.github.io/fr/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
+      <description>&lt;h3 id=&#34;1-un-petit-récapitulatif-juste-au-cas-où-&#34;&gt;&lt;strong&gt;1. Un petit récapitulatif (juste au cas où !)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Avant de plonger dans le monde sauvage des fichiers et des répertoires 🗂️, faisons rapidement un récapitulatif de ce que nous avons appris jusqu’à présent dans &lt;a href=&#34;https://memlens.github.io/fr/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction au Shell Linux&lt;/a&gt;&#xA; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le noyau Linux&lt;/strong&gt; : Le cerveau 🧠 de votre système.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Les outils GNU&lt;/strong&gt; : Les muscles 💪 qui rendent le noyau utilisable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Le Shell&lt;/strong&gt; : Votre centre de commande 🎮 pour tout ce qui touche à Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;C’est bon ? Parfait ! Passons maintenant aux choses sérieuses : &lt;strong&gt;le système de fichiers&lt;/strong&gt;. C&amp;rsquo;est comme la &lt;strong&gt;carte&lt;/strong&gt; de votre système 🗺️, et une fois que vous saurez comment le naviguer, vous trouverez ce que vous cherchez en un clin d&amp;rsquo;œil !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

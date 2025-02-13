@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>memlens</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://memlens.github.io/en/</link>
     <description>Recent content on memlens</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Feb 2025 01:27:32 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlens.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Linux 5: Mastering Redirection &amp; Pipelines</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</link>
       <pubDate>Sun, 09 Feb 2025 01:27:32 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-redirection-pipelines/</guid>
       <description>&lt;h3 id=&#34;1-introduction-control-the-data-flow-like-a-pro-&#34;&gt;&lt;strong&gt;1. Introduction: Control the Data Flow Like a Pro!&lt;/strong&gt; 🚀&lt;/h3&gt;&#xA;&lt;p&gt;Now that you know how to navigate the filesystem and work with files, it’s time to &lt;strong&gt;unlock the full power of the command line&lt;/strong&gt; by mastering &lt;strong&gt;redirection&lt;/strong&gt; and &lt;strong&gt;pipelines&lt;/strong&gt;. These features let you control where output goes, how errors are handled, and how commands interact with each other.&lt;/p&gt;&#xA;&lt;p&gt;Ready? Let’s dive in! 🔥&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-standard-input-output-and-error-streams&#34;&gt;&lt;strong&gt;2. Standard Input, Output, and Error Streams&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Every command in Linux interacts with three data streams:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 4: Understanding and Mastering Linux Commands</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</link>
       <pubDate>Sat, 08 Feb 2025 23:20:01 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</guid>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/understanding-and-mastering-linux-commands/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Now that you’ve learned how to manipulate files and directories, it’s time to take your command-line skills to the next level. Understanding the &lt;strong&gt;types of commands&lt;/strong&gt; you’ll encounter in Linux is crucial to effectively managing tasks and automating your workflow. Let’s break down the different command types you’ll use every day!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-types-of-linux-commands-the-building-blocks-&#34;&gt;&lt;strong&gt;1. Types of Linux Commands: The Building Blocks&lt;/strong&gt; 🧰&lt;/h3&gt;&#xA;&lt;p&gt;Before we jump into the specifics, let’s define &lt;strong&gt;Linux commands&lt;/strong&gt;. Simply put, commands in Linux are instructions you issue to the operating system through the shell. They come in different types, depending on their function and how they are executed. Let’s explore the &lt;strong&gt;four main types&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 3 : Mastering File Operations in Linux</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</link>
       <pubDate>Sat, 08 Feb 2025 21:41:16 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</guid>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/mastering-file-operations-in-linux/</guid>
       <description>&lt;h3 id=&#34;1-file-operations-101-lets-get-hands-on&#34;&gt;&lt;strong&gt;1. File Operations 101: Let&amp;rsquo;s Get Hands-On!&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the next level of Linux command mastery! 🥳 Now that you&amp;rsquo;ve learned how to navigate the filesystem, it&amp;rsquo;s time to &lt;strong&gt;dive deep&lt;/strong&gt; into the real power of the terminal: &lt;strong&gt;manipulating files&lt;/strong&gt;. Whether you want to create a new file, copy an important document, or delete something you regret, you&amp;rsquo;ll need to know these essential commands. 🧰&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-creating-files-youre-the-creator-now-&#34;&gt;&lt;strong&gt;2. Creating Files: You’re the Creator Now!&lt;/strong&gt; 📝&lt;/h3&gt;&#xA;&lt;p&gt;There are multiple ways to create files in Linux. Here are the most common methods:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 2 : Navigating the Linux Filesystem Like a Pro</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</link>
       <pubDate>Sat, 08 Feb 2025 19:25:46 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
-      <description>&lt;h3 id=&#34;1-a-quick-recap-just-in-case&#34;&gt;&lt;strong&gt;1. A Quick Recap (Just in Case!)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Before we dive into the wild world of files and directories 🗂️, let&amp;rsquo;s quickly recap what we&amp;rsquo;ve learned so far in &lt;a href=&#34;http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction to the Linux Shell&lt;/a&gt;&#xA;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux Kernel&lt;/strong&gt;: The brain 🧠 of your system.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GNU Tools&lt;/strong&gt;: The muscles 💪 that make the kernel usable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Shell&lt;/strong&gt;: Your command center 🎮 for all things Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Got it? Great! Now, let’s move to the good stuff: &lt;strong&gt;the filesystem&lt;/strong&gt;. It&amp;rsquo;s like the &lt;strong&gt;map&lt;/strong&gt; of your system 🗺️, and once you know how to navigate it, you’ll be able to find what you&amp;rsquo;re looking for in a snap!&lt;/p&gt;</description>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/navigating-the-linux-filesystem-like-a-pro/</guid>
+      <description>&lt;h3 id=&#34;1-a-quick-recap-just-in-case&#34;&gt;&lt;strong&gt;1. A Quick Recap (Just in Case!)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Before we dive into the wild world of files and directories 🗂️, let&amp;rsquo;s quickly recap what we&amp;rsquo;ve learned so far in &lt;a href=&#34;https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/&#34;&gt;Introduction to the Linux Shell&lt;/a&gt;&#xA;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux Kernel&lt;/strong&gt;: The brain 🧠 of your system.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GNU Tools&lt;/strong&gt;: The muscles 💪 that make the kernel usable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Shell&lt;/strong&gt;: Your command center 🎮 for all things Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Got it? Great! Now, let’s move to the good stuff: &lt;strong&gt;the filesystem&lt;/strong&gt;. It&amp;rsquo;s like the &lt;strong&gt;map&lt;/strong&gt; of your system 🗺️, and once you know how to navigate it, you’ll be able to find what you&amp;rsquo;re looking for in a snap!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Linux 1 : Introduction to the Linux Shell</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</link>
       <pubDate>Sat, 08 Feb 2025 18:36:37 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/introduction-to-the-linux-shell/</guid>
       <description>&lt;h3 id=&#34;1-disclaimer-who-is-this-tutorial-for&#34;&gt;&lt;strong&gt;1. Disclaimer: Who is This Tutorial For?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Alright, hold up! 🚨 Before we get into the juicy bits, let’s clear something up. This tutorial is &lt;strong&gt;not&lt;/strong&gt; for those just looking for a &amp;ldquo;Linux alternative&amp;rdquo; to Windows or macOS. If you&amp;rsquo;re here because you want to swap your OS for something &amp;ldquo;cool&amp;rdquo; and don&amp;rsquo;t care much about what goes on under the hood, this might not be the right place for you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Portfolio</title>
-      <link>http://localhost:1313/en/page/portfolio/</link>
+      <link>https://memlens.github.io/en/page/portfolio/</link>
       <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/en/page/portfolio/</guid>
+      <guid>https://memlens.github.io/en/page/portfolio/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xA;  &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;châ-fine-ayédoun-adebi&#34;&gt;&lt;strong&gt;Châ-Fine Ayédoun ADEBI&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Web &amp;amp; Software Developer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://memlens.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;https://github.com/memlens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;mailto:achafine@gmail.com&#34;&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Hi! I’m &lt;strong&gt;Châ-Fine Ayedoun&lt;/strong&gt;, a tech enthusiast with a particular focus on &lt;strong&gt;software development&lt;/strong&gt;, &lt;strong&gt;performance optimization&lt;/strong&gt;, and &lt;strong&gt;application scalability&lt;/strong&gt;. Currently pursuing a &lt;strong&gt;Bachelor’s degree in Computer Science&lt;/strong&gt;, I am constantly seeking new challenges and opportunities to deepen my skills and work on innovative projects.&lt;/p&gt;&#xA;&lt;p&gt;My goal is to become a versatile developer, capable of contributing to complex &lt;strong&gt;back-end&lt;/strong&gt; projects, enhancing system &lt;strong&gt;performance&lt;/strong&gt;, and ensuring &lt;strong&gt;scalability&lt;/strong&gt;. I am also passionate about &lt;strong&gt;open source&lt;/strong&gt; and &lt;strong&gt;artificial intelligence&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Choosing Your Linux Distribution and Installing Ubuntu on VirtualBox</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</link>
       <pubDate>Tue, 04 Feb 2025 04:07:11 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</guid>
-      <description>&lt;h2 id=&#34;why-linux-&#34;&gt;&lt;strong&gt;Why Linux?&lt;/strong&gt; 🐧&lt;/h2&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/choisir-sa-distro-linux/pourquoi-linux.jpg&#34; width=&#34;200px&#34;&gt;&#xA;&lt;p&gt;When people first hear about Linux, they often imagine a masked hacker in a Hollywood movie&amp;hellip; &lt;strong&gt;But in reality, Linux is much more than that!&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/media/posts/2025/02/choisir-sa-distro-linux/hacker.webp&#34; width=&#34;200px&#34;&gt;&lt;br&gt;&#xA;Think of Linux as &lt;strong&gt;a big family of operating systems&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux kernel&lt;/strong&gt; → The common &amp;ldquo;core&amp;rdquo; of all (like the script of a TV series)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distributions&lt;/strong&gt; → Different flavors with unique personalities (like the characters)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Unlike Windows/macOS, Linux offers you:&lt;br&gt;&#xA;🔓 &lt;strong&gt;Total freedom&lt;/strong&gt;: Customize &lt;em&gt;everything&lt;/em&gt; (interface, security, performance)&lt;br&gt;&#xA;🚀 &lt;strong&gt;Lightweight&lt;/strong&gt;: Revive an old PC (e.g., with Lubuntu)&lt;br&gt;&#xA;🛡️ &lt;strong&gt;Security&lt;/strong&gt;: Fewer viruses thanks to open source and user privileges&lt;/p&gt;</description>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/choisir-sa-distro-linux/</guid>
+      <description>&lt;h2 id=&#34;why-linux-&#34;&gt;&lt;strong&gt;Why Linux?&lt;/strong&gt; 🐧&lt;/h2&gt;&#xA;&lt;img src=&#34;https://memlens.github.io/images/choisir-sa-distro-linux/pourquoi-linux.jpg&#34; width=&#34;200px&#34;&gt;&#xA;&lt;p&gt;When people first hear about Linux, they often imagine a masked hacker in a Hollywood movie&amp;hellip; &lt;strong&gt;But in reality, Linux is much more than that!&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;https://memlens.github.io/media/posts/2025/02/choisir-sa-distro-linux/hacker.webp&#34; width=&#34;200px&#34;&gt;&lt;br&gt;&#xA;Think of Linux as &lt;strong&gt;a big family of operating systems&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Linux kernel&lt;/strong&gt; → The common &amp;ldquo;core&amp;rdquo; of all (like the script of a TV series)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Distributions&lt;/strong&gt; → Different flavors with unique personalities (like the characters)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Unlike Windows/macOS, Linux offers you:&lt;br&gt;&#xA;🔓 &lt;strong&gt;Total freedom&lt;/strong&gt;: Customize &lt;em&gt;everything&lt;/em&gt; (interface, security, performance)&lt;br&gt;&#xA;🚀 &lt;strong&gt;Lightweight&lt;/strong&gt;: Revive an old PC (e.g., with Lubuntu)&lt;br&gt;&#xA;🛡️ &lt;strong&gt;Security&lt;/strong&gt;: Fewer viruses thanks to open source and user privileges&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why I Chose Linux: My Journey and Tips for Beginners</title>
-      <link>http://localhost:1313/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</link>
+      <link>https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</link>
       <pubDate>Fri, 31 Jan 2025 11:16:36 +0100</pubDate>
-      <guid>http://localhost:1313/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</guid>
+      <guid>https://memlens.github.io/en/blog/linux-au-quotidient/pourquoi-j-ai-choisi-linux/</guid>
       <description>&lt;h3 id=&#34;1-introduction-&#34;&gt;&lt;strong&gt;1. Introduction&lt;/strong&gt; 🌱&lt;/h3&gt;&#xA;&lt;p&gt;My first encounter with Linux happened during my first year studying &lt;strong&gt;computer science&lt;/strong&gt; at the IUT of Parakou. It was the second semester when I noticed a classmate with an incredible desktop setup on his PC. Curious, I approached him, and he told me he was using &lt;strong&gt;Kali Linux&lt;/strong&gt;, an operating system mainly used for hacking.&lt;/p&gt;&#xA;&lt;p&gt;That was the first time I saw something other than &lt;strong&gt;Windows&lt;/strong&gt;. Back in 2023, &lt;strong&gt;Windows 10 was the standard&lt;/strong&gt;, and I used it without giving it much thought. But after this discovery, my curiosity was piqued—I needed to explore this new world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/page/about/</link>
+      <link>https://memlens.github.io/en/page/about/</link>
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
-      <guid>http://localhost:1313/en/page/about/</guid>
+      <guid>https://memlens.github.io/en/page/about/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to my blog! 🚀&lt;/h1&gt;&#xA;&lt;p&gt;(~) $: whoami _&lt;/p&gt;&#xA;&lt;p&gt;Passionate about tech, Linux systems, and development, I created this space to share my knowledge and experiences around &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;advanced configurations&lt;/strong&gt;, &lt;strong&gt;Programming&lt;/strong&gt;, and much more.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-youll-find-here-&#34;&gt;What you&amp;rsquo;ll find here 🛠️&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Detailed tutorials&lt;/strong&gt; on installing and customizing Linux distributions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Configuration guides&lt;/strong&gt; to optimize your work environment&lt;/li&gt;&#xA;&lt;li&gt;Articles on essential tools for developers and sysadmins&lt;/li&gt;&#xA;&lt;li&gt;Explorations of &lt;strong&gt;web development&lt;/strong&gt; and DevOps best practices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-this-blog-&#34;&gt;Why this blog? 💡&lt;/h2&gt;&#xA;&lt;p&gt;Linux offers incredible freedom, but making the most of its potential sometimes requires time and experimentation. My goal is to make these discoveries accessible and provide useful resources to help you improve productivity and efficiency on your system.&lt;/p&gt;</description>
     </item>
   </channel>

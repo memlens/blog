@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on memlens</title>
-    <link>http://localhost:1313/fr/page/</link>
+    <link>https://memlens.github.io/fr/page/</link>
     <description>Recent content in Pages on memlens</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 05 Feb 2025 23:51:10 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlens.github.io/fr/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon Portfolio</title>
-      <link>http://localhost:1313/fr/page/portfolio/</link>
+      <link>https://memlens.github.io/fr/page/portfolio/</link>
       <pubDate>Wed, 05 Feb 2025 23:51:10 +0100</pubDate>
-      <guid>http://localhost:1313/fr/page/portfolio/</guid>
+      <guid>https://memlens.github.io/fr/page/portfolio/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xA;  &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;châ-fine-ayédoun-adebi&#34;&gt;&lt;strong&gt;Châ-Fine Ayédoun ADEBI&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Développeur Web &amp;amp; Logiciel&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://memlens.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;https://github.com/memlens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&#xA; | &lt;a href=&#34;mailto:achafine@gmail.com&#34;&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;à-propos-de-moi&#34;&gt;&lt;strong&gt;À propos de moi&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Salut ! Je suis &lt;strong&gt;Châ-Fine Ayedoun&lt;/strong&gt;, un passionné de technologie avec un intérêt particulier pour le &lt;strong&gt;développement logiciel&lt;/strong&gt;, &lt;strong&gt;l&amp;rsquo;optimisation des performances&lt;/strong&gt;, et la &lt;strong&gt;scalabilité des applications&lt;/strong&gt;. Actuellement en &lt;strong&gt;Licence 3 en Informatique&lt;/strong&gt;, je suis en constante recherche de nouveaux défis et opportunités pour approfondir mes compétences et travailler sur des projets innovants.&lt;/p&gt;&#xA;&lt;p&gt;Mon objectif est de devenir un développeur polyvalent, capable de contribuer à des projets complexes en &lt;strong&gt;back-end&lt;/strong&gt;, d&amp;rsquo;améliorer la &lt;strong&gt;performance&lt;/strong&gt; des systèmes et de garantir leur &lt;strong&gt;scalabilité&lt;/strong&gt;. Je suis également passionné par l&amp;rsquo;&lt;strong&gt;open source&lt;/strong&gt; et l&amp;rsquo;&lt;strong&gt;intelligence artificielle&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/fr/page/about/</link>
+      <link>https://memlens.github.io/fr/page/about/</link>
       <pubDate>Fri, 31 Jan 2025 06:22:17 +0100</pubDate>
-      <guid>http://localhost:1313/fr/page/about/</guid>
+      <guid>https://memlens.github.io/fr/page/about/</guid>
       <description>&lt;h1 id=&#34;bienvenue-sur-mon-blog--&#34;&gt;Bienvenue sur mon blog ! 🚀&lt;/h1&gt;&#xA;&lt;p&gt;(~) $: whoami _&lt;/p&gt;&#xA;&lt;p&gt;Passionné par la tech, les systèmes Linux et le développement, j’ai créé cet espace pour partager mes connaissances et expériences autour de &lt;strong&gt;Linux&lt;/strong&gt;, des &lt;strong&gt;configurations avancées&lt;/strong&gt;, de la &lt;strong&gt;Programmation&lt;/strong&gt;, et bien plus encore.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ce-que-tu-trouveras-ici-&#34;&gt;Ce que tu trouveras ici 🛠️&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Des &lt;strong&gt;tutoriels détaillés&lt;/strong&gt; sur l’installation et la personnalisation de distributions Linux&lt;/li&gt;&#xA;&lt;li&gt;Des &lt;strong&gt;guides de configuration&lt;/strong&gt; pour optimiser ton environnement de travail&lt;/li&gt;&#xA;&lt;li&gt;Des articles sur des outils essentiels pour les développeurs et les sysadmins&lt;/li&gt;&#xA;&lt;li&gt;Des explorations autour du &lt;strong&gt;web development&lt;/strong&gt; et des bonnes pratiques DevOps&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;pourquoi-ce-blog--&#34;&gt;Pourquoi ce blog ? 💡&lt;/h2&gt;&#xA;&lt;p&gt;Linux offre une liberté incroyable, mais tirer parti de tout son potentiel demande parfois du temps et de l’expérimentation. Mon objectif est de rendre ces découvertes accessibles et de te fournir des ressources utiles pour gagner en productivité et en efficacité sur ton système.&lt;/p&gt;</description>
     </item>
   </channel>
